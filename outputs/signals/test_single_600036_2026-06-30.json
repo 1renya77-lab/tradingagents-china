@@ -1,0 +1,17 @@
+{
+  "ticker": "600036",
+  "name": "招商银行",
+  "date": "2026-06-30",
+  "analysts": [
+    "market",
+    "fundamentals"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 34.0,
+    "confidence": 0.8,
+    "risk_score": 0.7,
+    "reasoning": "技术面与基本面共振看空，下降趋势确立且加速，估值修复催化剂未出现，宏观风险仍在发酵，建议立即减仓规避风险。",
+    "model_info": "NormalizedChatOpenAI:deepseek-chat"
+  }
+}

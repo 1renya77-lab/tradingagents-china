@@ -1,0 +1,19 @@
+{
+  "ticker": "300269",
+  "name": "联建光电",
+  "date": "2026-06-30",
+  "analysts": [
+    "market",
+    "fundamentals",
+    "news",
+    "social"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 2.0,
+    "confidence": 0.85,
+    "risk_score": 0.9,
+    "reasoning": "公司基本面存在严重危机：负债率86.7%，流动比率0.61，ROE -19.6%，濒临流动性危机；A股历史上亏损状态下PB超50倍的概念炒作99%以暴跌收场；当前价格高估至少175%，风险收益比极差。建议立即卖出，等待股价跌至0.5-2.0块基本面支撑区间再重新评估。",
+    "model_info": "NormalizedChatOpenAI:deepseek-chat"
+  }
+}

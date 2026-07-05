@@ -1,0 +1,18 @@
+{
+  "run_name": "with_memory_300269_demo",
+  "provider": "deepseek",
+  "quick_model": "deepseek-v4-flash",
+  "deep_model": "deepseek-v4-pro",
+  "analysts": ["market", "fundamentals", "news", "social"],
+  "max_debate_rounds": 1,
+  "benchmark": "SH000905",
+  "holding_days": 1,
+  "evaluate": true,
+  "stocks": [
+    {
+      "ticker": "300269",
+      "start": "2026-06-30",
+      "end": "2026-07-03"
+    }
+  ]
+}

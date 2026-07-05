@@ -1,0 +1,19 @@
+{
+  "ticker": "600036",
+  "name": "招商银行",
+  "date": "2026-06-25",
+  "analysts": [
+    "market",
+    "fundamentals",
+    "news",
+    "social"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 35.0,
+    "confidence": 0.85,
+    "risk_score": 0.75,
+    "reasoning": "基本面盈利能力恶化（ROE仅3.4%）与技术面空头趋势形成共振，低PB可能成为价值陷阱；资金面主力净流出且向国有大行转移，风险回报比严重不对称，建议立即卖出等待右侧信号。",
+    "model_info": "NormalizedChatOpenAI:deepseek-chat"
+  }
+}

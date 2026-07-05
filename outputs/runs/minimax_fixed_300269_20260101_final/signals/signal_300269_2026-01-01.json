@@ -1,0 +1,19 @@
+{
+  "ticker": "300269",
+  "name": "联建光电",
+  "date": "2026-01-01",
+  "analysts": [
+    "market",
+    "fundamentals",
+    "news",
+    "social"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 5.25,
+    "confidence": 0.7,
+    "risk_score": 0.85,
+    "reasoning": "66倍市净率在亏损状态（ROE-19.6%）下无法用任何合理框架解释，属于投机性溢价；高负债（86%资产负债率）叠加低流动性（流动比率0.61、速动比率0.41）形成致命组合，资金链紧绷；技术面MACD在零轴下方弱势区域即将金叉信号未发生，不宜作为买入依据；长期6个月保守目标价5.0-5.5元（中间值5.25元），公司存在真实退市风险，当前持有任何仓位弊大于利，建议果断减仓止损离场。",
+    "model_info": "NormalizedChatAnthropic"
+  }
+}

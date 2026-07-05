@@ -1,0 +1,19 @@
+{
+  "ticker": "300269",
+  "name": "联建光电",
+  "date": "2026-06-29",
+  "analysts": [
+    "market",
+    "fundamentals",
+    "news",
+    "social"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 4.0,
+    "confidence": 0.85,
+    "risk_score": 0.9,
+    "reasoning": "公司每股净资产仅0.069元，PB高达66倍，流动比率0.61，资产负债率86.7%，财务造假史导致信用折价严重，技术性超卖无法改变基本面崩盘风险，建议卖出回避。",
+    "model_info": "NormalizedChatOpenAI:deepseek-v4-pro"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ticker": "000001",
+  "name": "平安银行",
+  "date": "2025-07-04",
+  "analysts": [
+    "market",
+    "fundamentals"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 11.62,
+    "confidence": 0.7,
+    "risk_score": 0.6,
+    "reasoning": "技术面RSI极度超买且放量滞涨，基本面低PB未定价尾部风险，短期风险大于机会。建议立即卖出50%仓位，剩余仓位止损上移至MA10（11.62），以控制回撤并保留超跌反弹机会。",
+    "model_info": "NormalizedChatOpenAI:deepseek-chat"
+  }
+}

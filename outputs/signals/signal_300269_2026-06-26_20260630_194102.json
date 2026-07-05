@@ -1,0 +1,19 @@
+{
+  "ticker": "300269",
+  "name": "联建光电",
+  "date": "2026-06-26",
+  "analysts": [
+    "market",
+    "fundamentals",
+    "news",
+    "social"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 3.5,
+    "confidence": 0.85,
+    "risk_score": 0.8,
+    "reasoning": "公司基本面崩溃，ROE -19.6%、资产负债率86.7%、流动比率0.61，处于死亡螺旋；估值虚高（PB 66倍），风险收益比极度不利（上涨空间16% vs 下跌空间26%-58%）；技术面超卖是陷阱，流动性枯竭可能导致止损无法执行；持有者应立即清仓，空仓者等待明确信号。",
+    "model_info": "NormalizedChatOpenAI:deepseek-chat"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "run_name": "minimax_300269_demo",
+  "provider": "minimax",
+  "quick_model": "MiniMax-M2.7-highspeed",
+  "deep_model": "MiniMax-M2.7-highspeed",
+  "analysts": ["market", "fundamentals", "news", "social"],
+  "max_debate_rounds": 1,
+  "benchmark": "SH000905",
+  "holding_days": 1,
+  "evaluate": true,
+  "stocks": [
+    {
+      "ticker": "300269",
+      "start": "2026-06-30",
+      "end": "2026-07-03"
+    }
+  ]
+}

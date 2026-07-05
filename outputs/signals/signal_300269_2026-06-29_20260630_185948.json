@@ -1,0 +1,19 @@
+{
+  "ticker": "300269",
+  "name": "联建光电",
+  "date": "2026-06-29",
+  "analysts": [
+    "market",
+    "fundamentals",
+    "news",
+    "social"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 4.0,
+    "confidence": 0.85,
+    "risk_score": 0.9,
+    "reasoning": "基本面恶化：ROE -19.6%、资产负债率86.7%、流动比率0.61，财务衰竭；技术面空头排列，RSI超卖但可能持续下跌；情绪面流动性枯竭，零关注是致命风险；目标价基于保守情景，1个月内可能跌至¥4.00-¥4.30，下行风险远大于上行空间。",
+    "model_info": "NormalizedChatOpenAI:deepseek-chat"
+  }
+}

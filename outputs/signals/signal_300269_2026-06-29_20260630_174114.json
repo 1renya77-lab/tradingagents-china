@@ -1,0 +1,16 @@
+{
+  "ticker": "300269",
+  "name": "联建光电",
+  "date": "2026-06-29",
+  "analysts": [
+    "news"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 2.8,
+    "confidence": 0.85,
+    "risk_score": 0.75,
+    "reasoning": "基本面结构性恶化，变卖核心资产导致产能萎缩，经营性现金流依赖延长应付账款，且市场定价在小市值股票上不完美。当前价格仍高于净资产底线，应果断清仓以避免流动性枯竭和黑天鹅事件。激进策略风险收益比差，中性方案持有部分承担过高下行风险。",
+    "model_info": "NormalizedChatOpenAI:deepseek-chat"
+  }
+}

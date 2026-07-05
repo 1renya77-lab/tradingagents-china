@@ -1,0 +1,19 @@
+{
+  "ticker": "300269",
+  "name": "联建光电",
+  "date": "2026-06-29",
+  "analysts": [
+    "market",
+    "fundamentals",
+    "news",
+    "social"
+  ],
+  "decision": {
+    "action": "卖出",
+    "target_price": 2.0,
+    "confidence": 0.8,
+    "risk_score": 0.8,
+    "reasoning": "基本面崩塌、估值泡沫、技术面空头、流动性枯竭，坚决清仓远离，不做空。",
+    "model_info": "NormalizedChatOpenAI:deepseek-v4-pro"
+  }
+}
