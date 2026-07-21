@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-07-09 18:51:32",
+  "source": "baostock",
+  "adjust": "qfq",
+  "provider_uri": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/data/qlib_cn_002415_2026_04",
+  "start": "2026-04-01",
+  "end": "2026-04-30",
+  "fetch_end": "2026-05-10",
+  "calendar_start": "2026-04-01",
+  "calendar_end": "2026-05-08",
+  "stocks": [
+    {
+      "ticker": "002415",
+      "instrument": "SZ002415",
+      "rows": 24
+    }
+  ],
+  "benchmarks": [
+    {
+      "benchmark": "SH000300",
+      "instrument": "SH000300",
+      "rows": 24
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "ticker": "002415",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.06666666666666667,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据"
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 2,
+    "sample_titles": [
+      "2025年度环境、社会和公司治理（ESG）报告（英文版）",
+      "2025年年度报告（英文版）"
+    ],
+    "confidence": 0.2,
+    "source": "cninfo_announcements"
+  },
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-09T17:35:24.771257",
+  "as_of_date": "2026-04-30"
+}

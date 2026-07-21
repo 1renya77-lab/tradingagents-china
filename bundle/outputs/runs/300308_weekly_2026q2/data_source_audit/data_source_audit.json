@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "configured_source_stack": {
+    "market": [
+      "local_prefetch_cache",
+      "AkShare A-share OHLCV",
+      "BaoStock A-share OHLCV",
+      "Qlib provider for backtest execution"
+    ],
+    "news": [
+      "a-stock-data / EastMoney stock news",
+      "a-stock-data / CNInfo announcements",
+      "AkShare stock_news_em",
+      "AkShare news_cctv for market-wide news"
+    ],
+    "fundamentals": [
+      "a-stock-data / EastMoney company profile",
+      "a-stock-data / CNInfo announcements",
+      "a-stock-data / Sina financial statements gated by audited announcements",
+      "AkShare financial abstract/statements",
+      "BaoStock profit snapshot with pubDate cutoff"
+    ],
+    "social": [
+      "Unified sentiment/news tools when available",
+      "Data-quality header marks unavailable feeds as unusable"
+    ]
+  },
+  "files_checked": 28,
+  "structured_records": 14,
+  "inferred_records": 183,
+  "unstructured_records": 0,
+  "summary_csv": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/data_source_audit/data_source_audit_summary.csv",
+  "details_csv": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/data_source_audit/data_source_audit_details.csv",
+  "summary": [
+    {
+      "component": "fundamentals",
+      "structured_records": 0,
+      "inferred_records": 9,
+      "ok_records": 0,
+      "sources": "BaoStock; EastMoney",
+      "vendors": "BaoStock; 东方财富",
+      "cutoff_dates": "",
+      "warnings": "Inferred from natural-language artifact text; not a structured tool log."
+    },
+    {
+      "component": "market",
+      "structured_records": 0,
+      "inferred_records": 62,
+      "ok_records": 0,
+      "sources": "AkShare; BaoStock; EastMoney; Sina",
+      "vendors": "AkShare; BaoStock; 东方财富; 新浪|Sina",
+      "cutoff_dates": "",
+      "warnings": "Inferred from natural-language artifact text; not a structured tool log."
+    },
+    {
+      "component": "news",
+      "structured_records": 14,
+      "inferred_records": 68,
+      "ok_records": 0,
+      "sources": "BaoStock; CNInfo; EastMoney",
+      "vendors": "BaoStock; 东方财富; 巨潮资讯|CNInfo",
+      "cutoff_dates": "2026-04-03; 2026-04-10; 2026-04-17; 2026-04-24; 2026-05-01; 2026-05-08; 2026-05-15; 2026-05-22; 2026-05-29; 2026-06-05; 2026-06-12; 2026-06-19; 2026-06-26; 2026-06-30",
+      "warnings": "Inferred from natural-language artifact text; not a structured tool log."
+    },
+    {
+      "component": "social",
+      "structured_records": 0,
+      "inferred_records": 44,
+      "ok_records": 0,
+      "sources": "CNInfo; EastMoney",
+      "vendors": "东方财富; 巨潮资讯|CNInfo",
+      "cutoff_dates": "",
+      "warnings": "Inferred from natural-language artifact text; not a structured tool log."
+    }
+  ],
+  "report_md": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/data_source_audit/data_source_audit.md"
+}

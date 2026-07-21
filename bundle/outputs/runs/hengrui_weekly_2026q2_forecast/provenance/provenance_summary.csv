@@ -1,0 +1,4 @@
+component,records,structured_records,inferred_records,time_evidence_records,sources,vendors
+fundamentals,6,0,6,0,BaoStock,BaoStock
+market,77,0,77,0,AkShare; BaoStock; CNInfo; EastMoney; Sina,AkShare; BaoStock; 东方财富; 巨潮资讯|CNInfo; 新浪|Sina
+news,129,14,115,0,BaoStock; CNInfo; EastMoney,BaoStock; 东方财富; 巨潮资讯|CNInfo

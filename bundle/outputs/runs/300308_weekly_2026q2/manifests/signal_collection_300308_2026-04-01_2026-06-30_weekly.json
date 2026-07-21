@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "kind": "tradingagents_signal_collection",
+  "run_name": "300308_weekly_2026q2",
+  "ticker": "300308",
+  "start_date": "2026-04-01",
+  "end_date": "2026-06-30",
+  "frequency": "weekly",
+  "selected_analysts": [
+    "market",
+    "fundamentals",
+    "news",
+    "social"
+  ],
+  "signal_path": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/signals/signals_300308_2026-04-01_2026-06-30_weekly_position.csv",
+  "started_at": "2026-07-13T04:07:36Z",
+  "ended_at": "2026-07-13T06:39:32Z",
+  "duration_seconds": 9116.0,
+  "rows_total": 14,
+  "rows_ok": 14,
+  "rows_error": 0,
+  "resume": false,
+  "python": "3.10.20",
+  "platform": "macOS-26.4.1-arm64-arm-64bit",
+  "argv": [
+    "collect_daily_signals.py",
+    "--ticker",
+    "300308",
+    "--start",
+    "2026-04-01",
+    "--end",
+    "2026-06-30",
+    "--frequency",
+    "weekly",
+    "--analysts",
+    "market",
+    "fundamentals",
+    "news",
+    "social",
+    "--provider",
+    "minimax",
+    "--quick-model",
+    "MiniMax-M2.7-highspeed",
+    "--deep-model",
+    "MiniMax-M2.7-highspeed",
+    "--run-name",
+    "300308_weekly_2026q2",
+    "--require-data-preflight"
+  ],
+  "git": {
+    "commit": "9e766dc4cd991bbafb6d61f13e36c884ff11fc07",
+    "branch": "main",
+    "dirty_status": "M CHANGELOG.md\n M README.md\n M add_target_positions_to_signals.py\n M backtest_existing_signals_qlib.py\n M build_minimal_qlib_provider.py\n M collect_daily_signals.py\n M compare_baselines.py\n M config/settings.json\n M data/qlib_cn_300308/calendars/day.txt\n M data/qlib_cn_300308/features/sz300308/amount.day.bin\n M data/qlib_cn_300308/features/sz300308/change.day.bin\n M data/qlib_cn_300308/features/sz300308/close.day.bin\n M data/qlib_cn_300308/features/sz300308/factor.day.bin\n M data/qlib_cn_300308/features/sz300308/high.day.bin\n M data/qlib_cn_300308/features/sz300308/low.day.bin\n M data/qlib_cn_300308/features/sz300308/open.day.bin\n M data/qlib_cn_300308/features/sz300308/volume.day.bin\n M data/qlib_cn_300308/instruments/all.txt\n M data/qlib_cn_300750_2026q2/calendars/day.txt\n M data/qlib_cn_300750_2026q2/features/sz300750/amount.day.bin\n M data/qlib_cn_300750_2026q2/features/sz300750/change.day.bin\n M data/qlib_cn_300750_2026q2/features/sz300750/close.day.bin\n M data/qlib_cn_300750_2026q2/features/sz300750/factor.day.bin\n M data/qlib_cn_300750_2026q2/features/sz300750/high.day.bin\n M data/qlib_cn_300750_2026q2/features/sz300750/low.day.bin\n M data/qlib_cn_300750_2026q2/features/sz300750/open.day.bin\n M data/qlib_cn_300750_2026q2/features/sz300750/volume.day.bin\n M data/qlib_cn_300750_2026q2/instruments/all.txt\n M docs/USAGE_ZH.md\n M run_experiment.py\n M signal_positioning.py\n M tests/__pycache__/test_backtest_signal_loading.cpython-310.pyc\n M tests/__pycache__/test_collect_daily_signals.cpython-310.pyc\n M tests/__pycache__/test_memory_log.cpython-310.pyc\n M tests/__pycache__/test_prefetch_cache.cpython-310.pyc\n M tests/__pycache__/test_signal_positioning.cpython-310.pyc\n M tests/test_backtest_signal_loading.py\n M tests/test_collect_daily_signals.py\n M tests/test_memory_log.py\n M tests/test_prefetch_cache.py\n M tests/test_signal_positioning.py\n M tradingagents/__pycache__/default_config.cpython-310.pyc\n M tradingagents/__pycache__/default_config.cpython-312.pyc\n M tradingagents/agents/__init__.py\n M tradingagents/agents/__pycache__/__init__.cpython-310.pyc\n M tradingagents/agents/__pycache__/__init__.cpython-312.pyc\n M tradingagents/agents/__pycache__/schemas.cpython-310.pyc\n M tradingagents/agents/__pycache__/schemas.cpython-312.pyc\n M tradingagents/agents/analysts/__pycache__/fundamentals_analyst.cpython-310.pyc\n M tradingagents/agents/analysts/__pycache__/market_analyst.cpython-310.pyc\n M tradingagents/agents/analysts/__pycache__/news_analyst.cpython-310.pyc\n M tradingagents/agents/analysts/__pycache__/sentiment_analyst.cpython-310.pyc\n M tradingagents/agents/analysts/__pycache__/social_media_analyst.cpython-310.pyc\n M tradingagents/agents/analysts/china_market_analyst.py\n M tradingagents/agents/analysts/fundamentals_analyst.py\n M tradingagents/agents/analysts/market_analyst.py\n M tradingagents/agents/analysts/news_analyst.py\n D tradingagents/agents/analysts/sentiment_analyst.py\n M tradingagents/agents/analysts/social_media_analyst.py\n M tradingagents/agents/managers/__pycache__/portfolio_manager.cpython-310.pyc\n M tradingagents/agents/managers/__pycache__/research_manager.cpython-310.pyc\n M tradingagents/agents/managers/__pycache__/risk_manager.cpython-310.pyc\n M tradingagents/agents/managers/__pycache__/risk_manager.cpython-312.pyc\n M tradingagents/agents/managers/portfolio_manager.py\n M tradingagents/agents/managers/research_manager.py\n M tradingagents/agents/managers/risk_manager.py\n M tradingagents/agents/researchers/__pycache__/bear_researcher.cpython-310.pyc\n M tradingagents/agents/researchers/__pycache__/bull_researcher.cpython-310.pyc\n M tradingagents/agents/researchers/bear_researcher.py\n M tradingagents/agents/researchers/bull_researcher.py\n M tradingagents/agents/risk_mgmt/__pycache__/aggresive_debator.cpython-310.pyc\n M tradingagents/agents/risk_mgmt/__pycache__/aggressive_debator.cpython-310.pyc\n M tradingagents/agents/risk_mgmt/__pycache__/conservative_debator.cpython-310.pyc\n M tradingagents/agents/risk_mgmt/__pycache__/conservative_debator.cpython-312.pyc\n M tradingagents/agents/risk_mgmt/__pycache__/neutral_debator.cpython-310.pyc\n M tradingagents/agents/risk_mgmt/__pycache__/neutral_debator.cpython-312.pyc\n M tradingagents/agents/risk_mgmt/aggresive_debator.py\n M tradingagents/agents/risk_mgmt/conservative_debator.py\n M tradingagents/agents/risk_mgmt/neutral_debator.py\n M tradingagents/agents/schemas.py\n M tradingagents/agents/trader/__pycache__/trader.cpython-310.pyc\n M tradingagents/agents/trader/trader.py\n M tradingagents/agents/utils/__pycache__/agent_states.cpython-310.pyc\n M tradingagents/agents/utils/__pycache__/agent_utils.cpython-310.pyc\n M tradingagents/agents/utils/__pycache__/agent_utils.cpython-312.pyc\n M tradingagents/agents/utils/__pycache__/memory_log.cpython-310.pyc\n M tradingagents/agents/utils/__pycache__/news_data_tools.cpython-310.pyc\n M tradingagents/agents/utils/__pycache__/rating.cpython-312.pyc\n M tradingagents/agents/utils/__pycache__/structured.cpython-310.pyc\n M tradingagents/agents/utils/__pycache__/structured.cpython-312.pyc\n M tradingagents/agents/utils/agent_states.py\n M tradingagents/agents/utils/agent_utils.py\n M tradingagents/agents/utils/memory_log.py\n M tradingagents/agents/utils/structured.py\n M tradingagents/config/__pycache__/providers_config.cpython-310.pyc\n M tradingagents/config/__pycache__/providers_config.cpython-312.pyc\n M tradingagents/config/providers_config.py\n M tradingagents/dataflows/__pycache__/baostock_provider.cpython-310.pyc\n M tradingagents/dataflows/__pycache__/baostock_provider.cpython-312.pyc\n M tradingagents/dataflows/__pycache__/china_akshare.cpython-310.pyc\n M tradingagents/dataflows/__pycache__/china_akshare.cpython-312.pyc\n M tradingagents/dataflows/__pycache__/china_research.cpython-310.pyc\n M tradingagents/dataflows/__pycache__/china_research.cpython-312.pyc\n M tradingagents/dataflows/__pycache__/data_source_manager.cpython-310.pyc\n M tradingagents/dataflows/__pycache__/errors.cpython-312.pyc\n M tradingagents/dataflows/__pycache__/local_prefetch_cache.cpython-310.pyc\n M tradingagents/dataflows/__pycache__/local_prefetch_cache.cpython-312.pyc\n M tradingagents/dataflows/__pycache__/reddit.cpython-310.pyc\n M tradingagents/dataflows/__pycache__/reddit.cpython-312.pyc\n M tradingagents/dataflows/__pycache__/stocktwits.cpython-310.pyc\n M tradingagents/dataflows/__pycache__/stocktwits.cpython-312.pyc\n M tradingagents/dataflows/baostock_provider.py\n M tradingagents/dataflows/cache/__pycache__/file_cache.cpython-310.pyc\n M tradingagents/dataflows/cache/__pycache__/file_cache.cpython-312.pyc\n M tradingagents/dataflows/cache/file_cache.py\n M tradingagents/dataflows/china_akshare.py\n M tradingagents/dataflows/china_research.py\n M tradingagents/dataflows/data_source_manager.py\n M tradingagents/dataflows/local_prefetch_cache.py\n M tradingagents/dataflows/news/__pycache__/chinese_finance.cpython-310.pyc\n M tradingagents/dataflows/news/__pycache__/chinese_finance.cpython-312.pyc\n M tradingagents/dataflows/news/chinese_finance.py\n M tradingagents/default_config.py\n M tradingagents/graph/__pycache__/analyst_execution.cpython-310.pyc\n M tradingagents/graph/__pycache__/reflection.cpython-310.pyc\n M tradingagents/graph/__pycache__/setup.cpython-310.pyc\n M tradingagents/graph/__pycache__/signal_processing.cpython-310.pyc\n M tradingagents/graph/__pycache__/signal_processing.cpython-312.pyc\n M tradingagents/graph/__pycache__/trading_graph.cpython-310.pyc\n M tradingagents/graph/__pycache__/trading_graph.cpython-312.pyc\n M tradingagents/graph/analyst_execution.py\n M tradingagents/graph/reflection.py\n M tradingagents/graph/setup.py\n M tradingagents/graph/signal_processing.py\n M tradingagents/graph/trading_graph.py\n M tradingagents/tools/__pycache__/unified_news_tool.cpython-310.pyc\n M tradingagents/tools/__pycache__/unified_news_tool.cpython-312.pyc\n M tradingagents/tools/unified_news_tool.py\n M tradingagents/utils/__pycache__/tool_logging.cpython-312.pyc\n?? alpha_gap_diagnostics.py\n?? alpha_recalibration_compare.py\n?? audit_data_sources.py\n?? audit_position_alignment.py\n?? audit_temporal_integrity.py\n?? backfill_existing_mechanism_outputs.py\n?? build_experiment_dashboard.py\n?? build_feedback_windows.py\n?? build_mechanism_attribution.py\n?? build_publish_outputs.py\n?? build_strategy_comparison_plot.py\n?? build_strategy_comparison_table.py\n?? data/prefetch/fundamentals/\n?? data/prefetch/market/000300.csv\n?? data/prefetch/market/000651.csv\n?? data/prefetch/market/000905.csv\n?? data/prefetch/market/002230.csv\n?? data/prefetch/market/002415.csv\n?? data/prefetch/market/600036.csv\n?? data/prefetch/market/600519.csv\n?? data/prefetch/market/601899.csv\n?? data/prefetch/news/\n?? data/prefetch/social/\n?? data/qlib_cn_000651_2025q4/\n?? data/qlib_cn_002230_2025q4/\n?? data/qlib_cn_002415_2026_04/\n?? data/qlib_cn_002415_2026q2/\n?? data/qlib_cn_300308/features/sh000300/\n?? data/qlib_cn_300308_2025-07-01_2026-05-08/\n?? data/qlib_cn_300308_2025-07-01_2026-06-30/\n?? data/qlib_cn_300308_2026q2/\n?? data/qlib_cn_300750_2026q2/features/sh000300/\n?? data/qlib_cn_600519_2026q2/\n?? data/qlib_cn_601138_2026q2/\n?? data/qlib_cn_601899_2025q4/\n?? data/qlib_cn_601899_2026q2/\n?? docs/IMPROVEMENT_PHASE1.md\n?? \"docs/_TradingAgents\\357\\274\\232Multi-Agents LLM Financial Trading Framework.md\"\n?? \"docs/\\346\\261\\207\\346\\212\\245\\347\\211\\210_TradingAgents_Multi_Agents_LLM_Financial_Trading.md\"\n?? external/\n?? figures/\n?? merge_signal_overrides.py\n?? organize_outputs_for_delivery.py\n?? prefetch_agent_data.py\n?? prefetch_astock_news.py\n?? strategy_baselines.py\n?? tests/test_alpha_gap_diagnostics.py\n?? tests/test_alpha_recalibration_compare.py\n?? tests/test_astock_data_provider.py\n?? tests/test_chinese_finance_sentiment.py\n?? tests/test_context_compression.py\n?? tests/test_data_availability_skip.py\n?? tests/test_data_source_audit.py\n?? tests/test_experiment_modes.py\n?? tests/test_feedback_windows.py\n?? tests/test_fundamentals_data_sources.py\n?? tests/test_graph_setup_modes.py\n?? tests/test_mechanism_attribution.py\n?? tests/test_merge_signal_overrides.py\n?? tests/test_portfolio_decision_schema.py\n?? tests/test_position_alignment.py\n?? tests/test_provenance.py\n?? tests/test_qlib_provider_builder.py\n?? tests/test_risk_manager_structured_output.py\n?? tests/test_risk_prompt_contracts.py\n?? tests/test_risky_debator_retry.py\n?? tests/test_signal_processing.py\n?? tests/test_stock_info_memory_cache.py\n?? tests/test_strategy_baselines.py\n?? tests/test_temporal_audit.py\n?? tests/test_trading_graph_position_calibration.py\n?? tests/test_trading_graph_single_llm.py\n?? tests/test_unified_news_astock_priority.py\n?? tradingagents/agents/analysts/legacy/\n?? tradingagents/agents/data_auditor.py\n?? tradingagents/agents/utils/data_availability.py\n?? tradingagents/context_compression.py\n?? tradingagents/dataflows/astock_data_provider.py\n?? tradingagents/dataflows/providers/china/sina.py\n?? tradingagents/experiment_modes.py\n?? tradingagents/utils/data_source_audit.py\n?? tradingagents/utils/experiment_manifest.py\n?? tradingagents/utils/position_alignment.py\n?? tradingagents/utils/provenance.py\n?? tradingagents/utils/temporal_audit.py"
+  },
+  "config": {
+    "project_dir": "/Users/bakii/tradingagents 汇报/tradingagents_bundle",
+    "results_dir": "./outputs/signals",
+    "data_dir": "/Users/bakii/Documents/TradingAgents/data",
+    "data_cache_dir": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/tradingagents/dataflows/data_cache",
+    "llm_provider": "minimax",
+    "deep_think_llm": "MiniMax-M2.7-highspeed",
+    "quick_think_llm": "MiniMax-M2.7-highspeed",
+    "backend_url": "https://api.minimaxi.com/anthropic",
+    "max_debate_rounds": 1,
+    "max_risk_discuss_rounds": 1,
+    "max_recur_limit": 100,
+    "run_name": "300308_weekly_2026q2",
+    "experiment_mode": "multi_agent_full_debate",
+    "single_llm_direct_enabled": false,
+    "enable_investment_debate": true,
+    "enable_risk_debate": true,
+    "memory_log_enabled": true,
+    "memory_log_max_entries": 50,
+    "context_compression_enabled": false,
+    "position_calibration_mode": "none",
+    "online_tools": false,
+    "online_news": true,
+    "realtime_data": false,
+    "signal_frequency": "weekly",
+    "decision_horizon": "next_5_trading_days",
+    "horizon_label": "未来5个交易日/直到下一次周频再平衡",
+    "horizon_instruction": "信号生成协议：信号在T日20:00生成，信息截止到T日19:30；交易在下一交易日T+1的09:30开盘执行。本次信号是周频信号：请基于T日19:30前公开可得的信息，判断未来5个交易日，或直到下一次周频信号生成前的持仓操作。不要只预测明天单日涨跌；重点评估一周级别的趋势延续、均值回归、事件风险、基本面催化和仓位风险。",
+    "api_key": "<redacted>",
+    "memory_log_path": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/memory/decision_memory.md"
+  },
+  "data_sources": {
+    "schema_version": 1,
+    "configured_source_stack": {
+      "market": [
+        "local_prefetch_cache",
+        "AkShare A-share OHLCV",
+        "BaoStock A-share OHLCV",
+        "Qlib provider for backtest execution"
+      ],
+      "news": [
+        "a-stock-data / EastMoney stock news",
+        "a-stock-data / CNInfo announcements",
+        "AkShare stock_news_em",
+        "AkShare news_cctv for market-wide news"
+      ],
+      "fundamentals": [
+        "a-stock-data / EastMoney company profile",
+        "a-stock-data / CNInfo announcements",
+        "a-stock-data / Sina financial statements gated by audited announcements",
+        "AkShare financial abstract/statements",
+        "BaoStock profit snapshot with pubDate cutoff"
+      ],
+      "social": [
+        "Unified sentiment/news tools when available",
+        "Data-quality header marks unavailable feeds as unusable"
+      ]
+    },
+    "files_checked": 28,
+    "structured_records": 14,
+    "inferred_records": 183,
+    "unstructured_records": 0,
+    "summary_csv": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/data_source_audit/data_source_audit_summary.csv",
+    "details_csv": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/data_source_audit/data_source_audit_details.csv",
+    "summary": [
+      {
+        "component": "fundamentals",
+        "structured_records": 0,
+        "inferred_records": 9,
+        "ok_records": 0,
+        "sources": "BaoStock; EastMoney",
+        "vendors": "BaoStock; 东方财富",
+        "cutoff_dates": "",
+        "warnings": "Inferred from natural-language artifact text; not a structured tool log."
+      },
+      {
+        "component": "market",
+        "structured_records": 0,
+        "inferred_records": 62,
+        "ok_records": 0,
+        "sources": "AkShare; BaoStock; EastMoney; Sina",
+        "vendors": "AkShare; BaoStock; 东方财富; 新浪|Sina",
+        "cutoff_dates": "",
+        "warnings": "Inferred from natural-language artifact text; not a structured tool log."
+      },
+      {
+        "component": "news",
+        "structured_records": 14,
+        "inferred_records": 68,
+        "ok_records": 0,
+        "sources": "BaoStock; CNInfo; EastMoney",
+        "vendors": "BaoStock; 东方财富; 巨潮资讯|CNInfo",
+        "cutoff_dates": "2026-04-03; 2026-04-10; 2026-04-17; 2026-04-24; 2026-05-01; 2026-05-08; 2026-05-15; 2026-05-22; 2026-05-29; 2026-06-05; 2026-06-12; 2026-06-19; 2026-06-26; 2026-06-30",
+        "warnings": "Inferred from natural-language artifact text; not a structured tool log."
+      },
+      {
+        "component": "social",
+        "structured_records": 0,
+        "inferred_records": 44,
+        "ok_records": 0,
+        "sources": "CNInfo; EastMoney",
+        "vendors": "东方财富; 巨潮资讯|CNInfo",
+        "cutoff_dates": "",
+        "warnings": "Inferred from natural-language artifact text; not a structured tool log."
+      }
+    ],
+    "report_md": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/data_source_audit/data_source_audit.md"
+  },
+  "provenance": {
+    "schema_version": 1,
+    "run_dir": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2",
+    "artifacts_checked": 28,
+    "records": 197,
+    "details_csv": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/provenance_details.csv",
+    "summary_csv": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/provenance_summary.csv",
+    "summary_md": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/provenance_summary.md",
+    "component_files": {
+      "market": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/market_sources.json",
+      "news": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/news_sources.json",
+      "fundamentals": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/fundamentals_sources.json",
+      "social": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/social_sources.json",
+      "unknown": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/unknown_sources.json"
+    }
+  }
+}

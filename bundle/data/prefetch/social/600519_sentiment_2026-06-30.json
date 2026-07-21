@@ -1,0 +1,73 @@
+{
+  "ticker": "600519",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.06666666666666667,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0.0,
+    "positive_ratio": 0.0,
+    "negative_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "news_count": 2,
+    "confidence": 0.2,
+    "sample_titles": [
+      "A股白酒板块震荡反弹，酒鬼酒盘中触及涨停，科技股却突发跳水",
+      "每10股派280.24元，贵州茅台今日分红"
+    ],
+    "records": [
+      {
+        "title": "A股白酒板块震荡反弹，酒鬼酒盘中触及涨停，科技股却突发跳水",
+        "content": "图据Wind 酒鬼酒（000799.SZ）领涨，盘中一度触及涨停，舍得酒业（600702.SH）、贵州茅台（600519.SH）、山西汾酒（600809.SH）、迎驾贡酒（603198.SH）涨幅靠前，一度涨超3%，水井坊（600779.SH）、口子窖（603589.SH）、洋河股份",
+        "source": "红星资本局",
+        "publish_time": "2026-06-29T14:13:41",
+        "url": "http://finance.eastmoney.com/a/202606293786531311.html"
+      },
+      {
+        "title": "每10股派280.24元，贵州茅台今日分红",
+        "content": "贵州茅台600519.SH)6月21日发布2025年年度权益分派实施公告，宣布以总股本扣除回购专用账户后的1250081601股为基数，每股派发现金红利28.02423元（含税，每10股派280.24元），合计派发现金红利约350.33亿元。",
+        "source": "21世纪经济报道",
+        "publish_time": "2026-06-26T09:17:00",
+        "url": "http://finance.eastmoney.com/a/202606263783940510.html"
+      }
+    ]
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0,
+    "event_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "当前窗口内无 CNInfo 公告事件",
+    "records": []
+  },
+  "social_discussion_rows": 0,
+  "social_event_rows": 2,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-11T12:15:15.453657",
+  "as_of_date": "2026-06-30",
+  "data_quality": {
+    "ok": false,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion",
+    "rows": 0,
+    "cutoff_date": "2026-06-30 19:30:00"
+  }
+}

@@ -1,0 +1,15 @@
+date,ticker,status,error_message,action,target_position,score,action_score,reasoning
+2026-04-03,300308,baseline,,持有,0.0,0.0,0.0,zmr: ZMR neutral: keep previous position
+2026-04-10,300308,baseline,,持有,0.0,0.0,0.0,"zmr: ZMR exit: zscore20=2.60, close near upper band"
+2026-04-17,300308,baseline,,持有,0.0,0.0,0.0,"zmr: ZMR exit: zscore20=2.15, close near upper band"
+2026-04-24,300308,baseline,,持有,0.0,0.0,0.0,"zmr: ZMR exit: zscore20=1.32, close near upper band"
+2026-05-01,300308,baseline,,持有,0.0,0.0,0.0,zmr: ZMR neutral: keep previous position
+2026-05-08,300308,baseline,,持有,0.0,0.0,0.0,zmr: ZMR neutral: keep previous position
+2026-05-15,300308,baseline,,持有,0.0,0.0,0.0,"zmr: ZMR exit: zscore20=1.79, close near upper band"
+2026-05-22,300308,baseline,,持有,0.0,0.0,0.0,"zmr: ZMR exit: zscore20=1.03, close near upper band"
+2026-05-29,300308,baseline,,持有,0.0,0.0,0.0,"zmr: ZMR exit: zscore20=1.42, close near upper band"
+2026-06-05,300308,baseline,,持有,0.0,0.0,0.0,zmr: ZMR neutral: keep previous position
+2026-06-12,300308,baseline,,持有,0.0,0.0,0.0,zmr: ZMR neutral: keep previous position
+2026-06-19,300308,baseline,,持有,0.0,0.0,0.0,"zmr: ZMR exit: zscore20=2.33, close near upper band"
+2026-06-26,300308,baseline,,持有,0.0,0.0,0.0,zmr: ZMR neutral: keep previous position
+2026-06-30,300308,baseline,,持有,0.0,0.0,0.0,zmr: ZMR neutral: keep previous position

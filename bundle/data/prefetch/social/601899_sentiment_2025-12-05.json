@@ -1,0 +1,44 @@
+{
+  "ticker": "601899",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.3333333333333333,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据"
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 12,
+    "sample_titles": [
+      "紫金矿业集团股份有限公司关联交易管理办法",
+      "紫金矿业集团股份有限公司董事会议事规则",
+      "紫金矿业集团股份有限公司董事和高级管理人员薪酬管理制度",
+      "紫金矿业集团股份有限公司关于支援香港大埔区宏福苑火灾灾后建设的公告",
+      "紫金矿业集团股份有限公司章程"
+    ],
+    "confidence": 1.0,
+    "source": "cninfo_announcements"
+  },
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 中)",
+  "timestamp": "2026-07-10T01:36:40.357721",
+  "as_of_date": "2025-12-05"
+}

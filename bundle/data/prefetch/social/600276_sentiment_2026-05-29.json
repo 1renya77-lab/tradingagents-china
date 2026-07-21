@@ -1,0 +1,132 @@
+{
+  "ticker": "600276",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.1,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 4,
+    "sample_titles": [
+      "恒瑞医药关于获得药物临床试验批准通知书的公告",
+      "恒瑞医药关于召开2026年第一季度业绩说明会的公告",
+      "恒瑞医药关于获得药品注册批准的公告",
+      "恒瑞医药关于获得药物临床试验批准通知书的公告"
+    ],
+    "confidence": 0.4,
+    "source": "cninfo_announcements",
+    "records": [
+      {
+        "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+        "type": "",
+        "date": "2026-05-27 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225330505",
+        "announcement_id": "1225330505",
+        "adjunct_url": "finalpage/2026-05-27/1225330505.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-27/1225330505.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "81",
+        "_audit_time": "2026-05-27 00:00:00",
+        "text_excerpt": "证券代码：600276      证券简称：恒瑞医药     公告编号：临 2026-078\n\n              江苏恒瑞医药股份有限公司\n      关于获得药物临床试验批准通知书的公告\n\n  本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述\n或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。\n\n  近日，江苏恒瑞医药股份有限公司（以下简称“公司”）子公司苏州盛迪亚\n生物医药有限公司收到国家药品监督管理局（以下简称“国家药监局”）核准签\n发关于注射用 SHR-5421 的《药物临床试验批准通知书》，将于近期开展临床试\n验。现将相关情况公告如下：\n  一、 药物的基本情况\n  药物名称：注射用 SHR-5421\n  剂   型：注射剂\n  申请事项：临床试验\n  受 理 号：CXSL2600237\n  审批结论：根据《中华人民共和国药品管理法》及有关规定，经审查，2026\n年 2 月 24 日受理的注射用 SHR-5421 临床试验申请符合药品注册的有关要求，同\n意本品单药在多发性骨髓瘤中开展临床研究。\n  二、药物的其他情况\n  注射用 SHR-5421 是公司自主研发的创新型抗肿瘤药物，拟用于治疗多发性\n骨髓瘤。经查询，目前国内外暂无同类药物获批上市。截至目前，注射用 SHR-\n5421 相关项目累计研发投入约 2,030 万元(未经审计)。\n  三、风险提示\n  根据我国药品注册相关的法律法规要求，药物在获得药物临床试验批准通知\n书后，尚需开展临床试验并经国家药监局审评、审批通过后方可生产上市。药品\n从研制、临床试验报批到投产的周期长、环节多，药品研发及至上市容易受到一\n\f些不确定性因素的影响，敬请广大投资者谨慎决策，注意防范投资风险。公司将\n按国家有关规定积极推进上述研发项目，并及时对项目后续进展情况履行信息披\n露义务。\n\n  特此公告。\n\n                   江苏恒瑞医药股份有限公司董事会\n                           2026 年 5 月 26 日",
+        "text_status": "ok",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "恒瑞医药关于召开2026年第一季度业绩说明会的公告",
+        "type": "",
+        "date": "2026-05-28 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225332924",
+        "announcement_id": "1225332924",
+        "adjunct_url": "finalpage/2026-05-28/1225332924.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-28/1225332924.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "87",
+        "_audit_time": "2026-05-28 00:00:00",
+        "text_excerpt": "证券代码：600276            证券简称：恒瑞医药      公告编号：临 2026-079\n\n                江苏恒瑞医药股份有限公司\n     关于召开 2026 年第一季度业绩说明会的公告\n\n    本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述\n或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。\n\n重要内容提示\n   会议内容：恒瑞医药 2026 年第一季度业绩说明会\n   会议时间：2026 年 6 月 3 日（星期三）下午 14:00-15:00\n   会议召开地点：上海证券交易所上证路演中心（网址：\n    https://roadshow.sseinfo.com/）\n   会议形式：上证路演中心网络互动\n问题征集方式：投资者可于 2026 年 6 月 2 日(星期二)16:00 前登录上证路演中\n心网站首页点击“提问预征集”栏目或通过公司邮箱 ir@hengrui.com 进行提问。\n公司将在说明会上对投资者普遍关注的问题进行回答。\n\n    江苏恒瑞医药股份有限公司（以下简称“公司”）已于 2026 年 4 月 23 日发\n布公司 2026 年第一季度报告，为便于广大投资者更全面深入地了解公司 2026 年\n第一季度经营成果、财务状况，公司计划于 2026 年 6 月 3 日下午 14:00-15:00\n举行 2026 年第一季度业绩说明会，就投资者关心的问题进行交流。\n    一、说明会类型\n    本次投资者说明会以网络互动形式召开，公司将针对 2026 年第一季度的经\n营成果及财务指标的具体情况与投资者进行互动交流和沟通，在信息披露允许的\n范围内就投资者普遍关注的问题进行回答。\n    二、说明会召开的时间、地点\n    会议召开时间：2026 年 6 月 3 日下午 14:00-15:00\n    会议召开地点：上证路演中心\n\f   会议召开方式：上证路演中心网络互动\n   三、参加人员\n   出席本次网络业绩说明会的人员有公司总裁、独立董事、首席财务官和董\n事会秘书。\n   四、投资者参加方式\n   1、投资者可在 2026 年 6 月 3 日下午 14:00-15:00，通过互联网登录上证路\n演中心（https://roadshow.sseinfo.com/），在线参与本次业绩说明会，公司将\n及时回答投资者的提问。\n   2、投资者可于 2026 年 6 月 2 日(星期二)16:00 前登录上证路演中心网站首\n页，点击“提问预征集”栏目（https://roadshow.sseinfo.com/preCallQa），根\n据活动时间，选中本次活动或通过公司邮箱 ir@hengrui.com 向公司提问，公司\n将在说明会上对投资者普遍关注的问题进行回答。\n\n   五、联系人及联系方式\n   联系人：资本市场和证券事务部\n   联系电话：021-61053323\n   联系邮箱：ir@hengrui.com\n   六、其他事项\n   本次投资者说明会召开后，投资者可以通过上证路演中心\n（https://roadshow.sseinfo.com/）查看本次投资者说明会的召开情况及主要\n内容。\n\n   特此公告。\n\n                               江苏恒瑞医药股份有限公司董事会\n                                          2026 年 5 月 27 日",
+        "text_status": "ok",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "恒瑞医药关于获得药品注册批准的公告",
+        "type": "",
+        "date": "2026-05-29 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225335039",
+        "announcement_id": "1225335039",
+        "adjunct_url": "finalpage/2026-05-29/1225335039.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-29/1225335039.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "100",
+        "_audit_time": "2026-05-29 00:00:00",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+        "type": "",
+        "date": "2026-05-29 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225335036",
+        "announcement_id": "1225335036",
+        "adjunct_url": "finalpage/2026-05-29/1225335036.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-29/1225335036.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "92",
+        "_audit_time": "2026-05-29 00:00:00",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": ""
+      }
+    ]
+  },
+  "irm_sentiment": {
+    "sentiment_score": 0,
+    "irm_count": 0,
+    "sample_topics": [],
+    "confidence": 0,
+    "note": "当前窗口内无可审计 CNInfo 互动易问答",
+    "records": []
+  },
+  "social_discussion_rows": 0,
+  "social_event_rows": 4,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-14T01:38:52.906982",
+  "as_of_date": "2026-05-29",
+  "data_quality": {
+    "ok": false,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 0,
+    "cutoff_date": "2026-05-29 19:30:00"
+  }
+}

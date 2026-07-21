@@ -1,0 +1,13 @@
+date,ticker,status,error_message,action,target_position,score,action_score,reasoning
+2026-04-17,600276,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2026-04-24,600276,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2026-05-01,600276,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=13.86<D=22.86, RSI6=26.75, RSI12=38.83"
+2026-05-08,600276,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=6.98<D=12.79, RSI6=19.36, RSI12=34.00"
+2026-05-15,600276,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2026-05-22,600276,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=9.16<D=15.18, RSI6=24.86, RSI12=32.32"
+2026-05-29,600276,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2026-06-05,600276,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=11.24<D=14.39, RSI6=32.89, RSI12=34.08"
+2026-06-12,600276,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2026-06-19,600276,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2026-06-26,600276,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2026-06-30,600276,baseline,,买入,1.0,1.0,1.0,"kdj_rsi: KDJ&RSI bullish: K=75.15>D=70.31, RSI6=66.24, RSI12=60.02"

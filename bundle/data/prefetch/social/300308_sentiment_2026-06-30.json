@@ -1,0 +1,99 @@
+{
+  "ticker": "300308",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": -0.6666666666666666,
+    "confidence": 0.075,
+    "level": "very_negative"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0,
+    "event_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "当前窗口内无 CNInfo 公告事件",
+    "records": []
+  },
+  "irm_sentiment": {
+    "sentiment_score": -0.6666666666666666,
+    "irm_count": 3,
+    "sample_topics": [
+      "董秘先生你好，康宁玻璃桥的推出是否会对公司未来形成利空？",
+      "近期传闻公司上游物料炫光片被封锁，市场定位公司只是一个中游组装厂，面临上下游挤压",
+      "在AI竞争中，光模块作为高科技战略资源，公司海外建厂是否存在技术外移？如果不存在"
+    ],
+    "confidence": 0.3,
+    "source": "cninfo_irm",
+    "records": [
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "董秘先生你好，康宁玻璃桥的推出是否会对公司未来形成利空？",
+        "answer": "投资者您好，上述技术是CPO内部光耦合组件的新方案，不是光模块产品的方案替代；即使未来中长期成为主流，公司多元化的技术布局也能充分适配。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-27 14:12:42",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-27 14:12:42"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "近期传闻公司上游物料炫光片被封锁，市场定位公司只是一个中游组装厂，面临上下游挤压的双重风险，公司靠什么核心技术来应对风险？",
+        "answer": "投资者您好，首先，上述市场传言不符合事实。公司在核心物料方面都有正常的采购渠道，供应商也在积极支持，没有被封锁的情形。其次，光模块虽有组装工序（几十道工序之一），但不能简单等同于组装行业。高端光模块涵盖了硅光、相干、光路仿真建模、高频高速电路、精密光学耦合、色散补偿算法、高速误码测试以及温控与散热管理等核心技术，而且还需要长期可靠性测试与大客户严苛的准入认证。总结来说，光模块的系统设计与整合优化以及制造工艺都是核心技术，绝非简单拼装或组装。公司依靠快速高效的研发效率、精密制造和大规模交付能力，能够紧跟大客户技术迭代步伐，巩固核心竞争力和市场份额。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-28 08:24:15",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-28 08:24:15"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "在AI竞争中，光模块作为高科技战略资源，公司海外建厂是否存在技术外移？如果不存在，是不是意味技术要求不是那么高？",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-25 14:26:01",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-25 14:26:01"
+      }
+    ]
+  },
+  "social_discussion_rows": 3,
+  "social_event_rows": 0,
+  "summary": "市场情绪: 非常消极 (评分: -0.67, 置信度: 低)",
+  "timestamp": "2026-07-13T12:04:51.810788",
+  "as_of_date": "2026-06-30",
+  "data_quality": {
+    "ok": true,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 3,
+    "cutoff_date": "2026-06-30 19:30:00"
+  }
+}

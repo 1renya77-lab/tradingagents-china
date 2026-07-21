@@ -1,0 +1,23 @@
+date,ticker,experiment_mode,status,error_message,action,confidence,risk_score,target_price,action_score,score,target_position,position_gate_notes,position_calibration,evidence_scores,p_up_5d,expected_return_5d,expected_excess_5d,downside_risk_5d,is_priced_in,forecast_reason,forecast_json,reasoning
+2026-04-03,600276,multi_agent_full_debate,ok,,买入,0.65,0.45,57.5,1.0,0.7519,0.4,,"{""target_position"": 0.4, ""raw_position"": 0.4, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 2.8, ""reward_risk_score"": 3.2, ""catalyst_strength"": 3.5, ""drawdown_risk"": 3.0, ""data_quality"": 4.2, ""position_invalid_if"": ""有效跌破54.00元（连续两日收盘在下方）；业绩说明会释放重大利空（如Q1指引大幅下调、临床试验终止）；成交量放大至500万股/日但价格无法站上57.50元（主力出货信号）""}",0.58,0.023,0.012,-0.039,medium,55元三重均线支撑提供下行保护，但PE 48倍的估值压力和短期技术面偏弱限制上涨空间。业绩说明会（4月7日）尚未定价，是未来5个交易日的主要催化来源。,"{""p_up_5d"": 0.58, ""expected_return_5d"": 0.023, ""expected_excess_5d"": 0.012, ""downside_risk_5d"": -0.039, ""is_priced_in"": ""medium"", ""forecast_reason"": ""55元三重均线支撑提供下行保护，但PE 48倍的估值压力和短期技术面偏弱限制上涨空间。业绩说明会（4月7日）尚未定价，是未来5个交易日的主要催化来源。""}","**核心判断：买入，目标仓位40%**
+
+经过对三位分析师论点的深入评估，我认为恒瑞医药600276在55元附近具备较好的风险收益比，理由如下：
+
+**主要上行证据**：
+
+1. **基本面支撑坚实**：2025年归母净利润77.17亿元（+21.77%），经营现金流/净利润比率145.59%，账上现金401亿元，资产负债率仅0.12%。这不是账面游戏，是真实的盈利质量。管理层在53-52元区间持"
+2026-04-10,600276,multi_agent_full_debate,ok,,持有,0.6,0.55,58.5,0.5,0.5,0.25,,"{""target_position"": 0.25, ""raw_position"": 0.25, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 3.0, ""reward_risk_score"": 2.8, ""catalyst_strength"": 3.0, ""drawdown_risk"": 3.5, ""data_quality"": 3.5, ""position_invalid_if"": ""放量突破58.63元（成交量超过300万股且股价站稳）则增加仓位至35%；有效跌破55元则减仓至10%以下""}",,,,,medium,未提供,"{""is_priced_in"": ""medium"", ""forecast_reason"": ""未提供""}","## 最终决策：持有 25%仓位
+
+### 一、多空核心论点评估
+
+**支持持有的关键证据：**
+1. 均线系统健康：MA5>MA10>MA20=MA60标准多头排列，中长期趋势明确
+2. MACD动能健康：DIF 0.397对DEA 0.138保持0.259正向间距，多头内部结构健康
+3. RSI未过热：RSI6=58.28、RSI12=56.17、RSI24=54.64，三个周期均在健康偏多区"
+2026-04-17,600276,multi_agent_full_debate,ok,,持有,0.6,0.4,58.0,0.5,0.5,0.25,,"{""target_position"": 0.25, ""raw_position"": 0.25, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 3.0, ""reward_risk_score"": 3.0, ""catalyst_strength"": 3.5, ""drawdown_risk"": 2.5, ""data_quality"": 3.5, ""position_invalid_if"": ""有效跌破54.5元且伴随放量，或放量跌破MA60（55.63元），或出现系统性市场风险导致大盘单日跌幅超过2%""}",0.55,0.02,0.01,-0.035,medium,SHR-A2102催化价值已被部分定价，短期技术偏弱但中期趋势未破，估值偏高限制向上弹性。预计未来5个交易日震荡偏强格局，25%仓位可攻可守。主要不确定性来自量能能否配合突破58元压力位。,"{""p_up_5d"": 0.55, ""expected_return_5d"": 0.02, ""expected_excess_5d"": 0.01, ""downside_risk_5d"": -0.035, ""is_priced_in"": ""medium"", ""forecast_reason"": ""SHR-A2102催化价值已被部分定价，短期技术偏弱但中期趋势未破，估值偏高限制向上弹性。预计未来5个交易日震荡偏强格局，25%仓位可攻可守。主要不确定性来自量能能否配合突破58元压力位。""}","**核心决策：持有25%仓位**
+
+中立分析师的25%仓位建议最为合理，综合平衡了激进和保守两方观点：
+
+**支持持有的主要依据：**
+
+第一，中期技术面支撑有效。虽然MA5（56.38元）和MA10（56.49元）形成死叉，但MA20（55.57元）和MA60（55.63元）仍在价格下方，MACD柱状图0.260仍在多头区域。这种""短空中多""格局是震荡蓄势而非趋势反转。激进分析师正确指出MACD"

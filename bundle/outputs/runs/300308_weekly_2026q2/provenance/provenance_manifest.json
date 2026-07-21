@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "run_dir": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2",
+  "artifacts_checked": 28,
+  "records": 197,
+  "details_csv": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/provenance_details.csv",
+  "summary_csv": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/provenance_summary.csv",
+  "summary_md": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/provenance_summary.md",
+  "component_files": {
+    "market": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/market_sources.json",
+    "news": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/news_sources.json",
+    "fundamentals": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/fundamentals_sources.json",
+    "social": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/social_sources.json",
+    "unknown": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/provenance/unknown_sources.json"
+  }
+}

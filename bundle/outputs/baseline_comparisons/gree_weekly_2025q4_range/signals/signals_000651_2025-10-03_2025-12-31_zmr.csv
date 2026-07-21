@@ -1,0 +1,15 @@
+date,ticker,status,error_message,action,target_position,score,action_score,reasoning
+2025-10-03,000651,baseline,,买入,1.0,1.0,1.0,"zmr: ZMR long reversion: zscore20=-1.24, close near lower band"
+2025-10-10,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-10-17,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-10-24,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-10-31,000651,baseline,,持有,1.0,1.0,1.0,"zmr: ZMR long reversion: zscore20=-1.89, close near lower band"
+2025-11-07,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-11-14,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-11-21,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-11-28,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-12-05,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-12-12,000651,baseline,,持有,1.0,1.0,1.0,zmr: ZMR neutral: keep previous position
+2025-12-19,000651,baseline,,卖出,0.0,0.0,0.0,"zmr: ZMR exit: zscore20=1.47, close near upper band"
+2025-12-26,000651,baseline,,持有,0.0,0.0,0.0,zmr: ZMR neutral: keep previous position
+2025-12-31,000651,baseline,,买入,1.0,1.0,1.0,"zmr: ZMR long reversion: zscore20=-2.24, close near lower band"

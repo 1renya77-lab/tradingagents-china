@@ -1,0 +1,46 @@
+{
+  "ticker": "002415",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.09999999999999999,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0.0,
+    "positive_ratio": 0.0,
+    "negative_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "news_count": 3,
+    "confidence": 0.3,
+    "sample_titles": [
+      "计算机行业资金流入榜：中科曙光、紫光股份等净流入资金居前",
+      "AI重写“芯片医院”千亿生意经：半导体失效分析实现从“专家会诊”到“秒级响应”",
+      "近五年分拆：海康机器人IPO独立性仍存疑"
+    ]
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据"
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0,
+    "event_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "当前窗口内无 CNInfo 公告事件"
+  },
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-10T17:08:45.852595",
+  "as_of_date": "2026-06-30"
+}

@@ -1,0 +1,44 @@
+{
+  "ticker": "002415",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": -0.09090909090909091,
+    "confidence": 0.3333333333333333,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据"
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": -0.09090909090909091,
+    "event_count": 11,
+    "sample_titles": [
+      "关于拟变更会计师事务所的公告",
+      "2026年一季度报告（英文版）",
+      "独立董事关于公司涉及财务公司关联交易的存贷款等金融业务的专项意见",
+      "2025年度董事会工作报告",
+      "关于与中国电子科技财务有限公司开展金融服务业务的风险处置预案"
+    ],
+    "confidence": 1.0,
+    "source": "cninfo_announcements"
+  },
+  "summary": "市场情绪: 中性 (评分: -0.09, 置信度: 中)",
+  "timestamp": "2026-07-10T17:08:43.956055",
+  "as_of_date": "2026-04-24"
+}

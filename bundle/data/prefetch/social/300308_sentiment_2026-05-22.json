@@ -1,0 +1,124 @@
+{
+  "ticker": "300308",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.1,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 2,
+    "sample_titles": [
+      "投资者关系活动记录表20260515",
+      "关于特定股东部分股票进行质押交易及解除质押的公告"
+    ],
+    "confidence": 0.2,
+    "source": "cninfo_announcements",
+    "records": [
+      {
+        "title": "投资者关系活动记录表20260515",
+        "type": "",
+        "date": "2026-05-15 19:24:11",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225311210",
+        "announcement_id": "1225311210",
+        "adjunct_url": "finalpage/2026-05-15/1225311210.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-15/1225311210.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "167",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-05-15 19:24:11"
+      },
+      {
+        "title": "关于特定股东部分股票进行质押交易及解除质押的公告",
+        "type": "",
+        "date": "2026-05-22 17:48:27",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225325912",
+        "announcement_id": "1225325912",
+        "adjunct_url": "finalpage/2026-05-22/1225325912.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-22/1225325912.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "137",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-05-22 17:48:27"
+      }
+    ]
+  },
+  "irm_sentiment": {
+    "sentiment_score": 0.0,
+    "irm_count": 2,
+    "sample_topics": [
+      "公司是否有规划布局太空数据中心相关项目，比如卫星之间激光互联的相关产品研发？",
+      "公司好久没送股，国产光芯片方面有投资建没吗"
+    ],
+    "confidence": 0.2,
+    "source": "cninfo_irm",
+    "records": [
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "公司是否有规划布局太空数据中心相关项目，比如卫星之间激光互联的相关产品研发？",
+        "answer": "投资者您好，公司没有上述业务。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-05-18 13:42:12",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-05-18 13:42:12"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "公司好久没送股，国产光芯片方面有投资建没吗",
+        "answer": "投资者您好，公司目前主营业务不涉及光芯片的生产。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-05-21 10:55:34",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-05-21 10:55:34"
+      }
+    ]
+  },
+  "social_discussion_rows": 2,
+  "social_event_rows": 2,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-13T12:04:42.435776",
+  "as_of_date": "2026-05-22",
+  "data_quality": {
+    "ok": true,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 2,
+    "cutoff_date": "2026-05-22 19:30:00"
+  }
+}

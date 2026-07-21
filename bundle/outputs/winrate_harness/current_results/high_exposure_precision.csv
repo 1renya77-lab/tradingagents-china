@@ -1,0 +1,2 @@
+case,signals,win_rate,avg_stock_return,avg_position
+target_position>=50%,3,0.0,-0.03855181655293183,0.65

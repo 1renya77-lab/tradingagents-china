@@ -1,0 +1,150 @@
+{
+  "ticker": "300308",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.125,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 5,
+    "sample_titles": [
+      "关于变更2026年第一季度报告预约披露时间的公告",
+      "2026年第一季度报告披露的提示性公告",
+      "第五届董事会第三十一次会议决议公告",
+      "2026年一季度报告",
+      "投资者关系活动记录表20260416"
+    ],
+    "confidence": 0.5,
+    "source": "cninfo_announcements",
+    "records": [
+      {
+        "title": "关于变更2026年第一季度报告预约披露时间的公告",
+        "type": "",
+        "date": "2026-04-15 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225100461",
+        "announcement_id": "1225100461",
+        "adjunct_url": "finalpage/2026-04-15/1225100461.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-04-15/1225100461.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "112",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-04-15 00:00:00"
+      },
+      {
+        "title": "2026年第一季度报告披露的提示性公告",
+        "type": "",
+        "date": "2026-04-17 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225111944",
+        "announcement_id": "1225111944",
+        "adjunct_url": "finalpage/2026-04-17/1225111944.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225111944.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "115",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-04-17 00:00:00"
+      },
+      {
+        "title": "第五届董事会第三十一次会议决议公告",
+        "type": "",
+        "date": "2026-04-17 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225111943",
+        "announcement_id": "1225111943",
+        "adjunct_url": "finalpage/2026-04-17/1225111943.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225111943.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "117",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-04-17 00:00:00"
+      },
+      {
+        "title": "2026年一季度报告",
+        "type": "",
+        "date": "2026-04-17 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225111941",
+        "announcement_id": "1225111941",
+        "adjunct_url": "finalpage/2026-04-17/1225111941.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225111941.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "776",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-04-17 00:00:00"
+      },
+      {
+        "title": "投资者关系活动记录表20260416",
+        "type": "",
+        "date": "2026-04-17 00:10:09",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225114832",
+        "announcement_id": "1225114832",
+        "adjunct_url": "finalpage/2026-04-17/1225114832.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225114832.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "237",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-04-17 00:10:09"
+      }
+    ]
+  },
+  "irm_sentiment": {
+    "sentiment_score": 0,
+    "irm_count": 0,
+    "sample_topics": [],
+    "confidence": 0,
+    "note": "当前窗口内无可审计 CNInfo 互动易问答",
+    "records": []
+  },
+  "social_discussion_rows": 0,
+  "social_event_rows": 5,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-13T12:04:31.384958",
+  "as_of_date": "2026-04-17",
+  "data_quality": {
+    "ok": false,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 0,
+    "cutoff_date": "2026-04-17 19:30:00"
+  }
+}

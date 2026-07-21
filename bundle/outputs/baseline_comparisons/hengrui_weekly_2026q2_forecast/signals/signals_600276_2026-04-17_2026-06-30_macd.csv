@@ -1,0 +1,13 @@
+date,ticker,status,error_message,action,target_position,score,action_score,reasoning
+2026-04-17,600276,baseline,,买入,1.0,1.0,1.0,"macd: MACD bullish crossover: DIF=12.295, DEA=3.951"
+2026-04-24,600276,baseline,,卖出,0.0,0.0,0.0,"macd: MACD bearish crossover: DIF=1.807, DEA=3.986"
+2026-05-01,600276,baseline,,持有,0.0,0.0,0.0,"macd: MACD bearish crossover: DIF=-17.302, DEA=-4.541"
+2026-05-08,600276,baseline,,持有,0.0,0.0,0.0,"macd: MACD bearish crossover: DIF=-35.104, DEA=-16.893"
+2026-05-15,600276,baseline,,持有,0.0,0.0,0.0,"macd: MACD bearish crossover: DIF=-23.255, DEA=-22.118"
+2026-05-22,600276,baseline,,持有,0.0,0.0,0.0,"macd: MACD bearish crossover: DIF=-61.149, DEA=-41.060"
+2026-05-29,600276,baseline,,持有,0.0,0.0,0.0,"macd: MACD bearish crossover: DIF=-81.728, DEA=-67.017"
+2026-06-05,600276,baseline,,持有,0.0,0.0,0.0,"macd: MACD bearish crossover: DIF=-99.157, DEA=-84.467"
+2026-06-12,600276,baseline,,买入,1.0,1.0,1.0,"macd: MACD bullish crossover: DIF=-88.513, DEA=-93.546"
+2026-06-19,600276,baseline,,持有,1.0,1.0,1.0,"macd: MACD bullish crossover: DIF=-67.393, DEA=-82.402"
+2026-06-26,600276,baseline,,持有,1.0,1.0,1.0,"macd: MACD bullish crossover: DIF=-24.994, DEA=-50.321"
+2026-06-30,600276,baseline,,持有,1.0,1.0,1.0,"macd: MACD bullish crossover: DIF=5.941, DEA=-31.913"

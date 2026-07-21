@@ -1,0 +1,244 @@
+{
+  "ticker": "300308",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 1.1564823173178714e-17,
+    "confidence": 0.3,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 1.0,
+    "positive_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "neutral_ratio": 0.0,
+    "news_count": 1,
+    "confidence": 0.1,
+    "sample_titles": [
+      "全线飙升，多股创新高！300308，成交额A股第一"
+    ],
+    "records": [
+      {
+        "title": "全线飙升，多股创新高！300308，成交额A股第一",
+        "content": "CPO概念热度不减，工业富联午后一度涨停，中际旭创（300308）涨超7%，全日成交381.8亿元，位居A股成交额首位。PCB概念延续强势，铜冠铜箔突破200元/股大关，再创新高。有色板块亮眼，江西铜业、盛和资源、中稀有色等涨停。",
+        "source": "证券时报",
+        "publish_time": "2026-06-18T17:05:00",
+        "url": "http://finance.eastmoney.com/a/202606183776215413.html"
+      }
+    ]
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 5,
+    "sample_titles": [
+      "北京中银（苏州）律师事务所关于公司2026年第二次临时股东会之法律意见书",
+      "关于选举第六届董事会职工代表董事的公告",
+      "2026年第二次临时股东会决议公告",
+      "第六届董事会第一次会议决议公告",
+      "关于董事会完成换届选举暨聘任高级管理人员和证券事务代表的公告"
+    ],
+    "confidence": 0.5,
+    "source": "cninfo_announcements",
+    "records": [
+      {
+        "title": "北京中银（苏州）律师事务所关于公司2026年第二次临时股东会之法律意见书",
+        "type": "",
+        "date": "2026-06-12 18:32:06",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225368700",
+        "announcement_id": "1225368700",
+        "adjunct_url": "finalpage/2026-06-12/1225368700.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225368700.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "213",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-06-12 18:32:06"
+      },
+      {
+        "title": "关于选举第六届董事会职工代表董事的公告",
+        "type": "",
+        "date": "2026-06-12 18:32:11",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225368701",
+        "announcement_id": "1225368701",
+        "adjunct_url": "finalpage/2026-06-12/1225368701.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225368701.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "95",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-06-12 18:32:11"
+      },
+      {
+        "title": "2026年第二次临时股东会决议公告",
+        "type": "",
+        "date": "2026-06-12 18:32:11",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225368699",
+        "announcement_id": "1225368699",
+        "adjunct_url": "finalpage/2026-06-12/1225368699.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225368699.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "133",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-06-12 18:32:11"
+      },
+      {
+        "title": "第六届董事会第一次会议决议公告",
+        "type": "",
+        "date": "2026-06-12 18:32:11",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225368698",
+        "announcement_id": "1225368698",
+        "adjunct_url": "finalpage/2026-06-12/1225368698.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225368698.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "177",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-06-12 18:32:11"
+      },
+      {
+        "title": "关于董事会完成换届选举暨聘任高级管理人员和证券事务代表的公告",
+        "type": "",
+        "date": "2026-06-12 18:32:11",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225368697",
+        "announcement_id": "1225368697",
+        "adjunct_url": "finalpage/2026-06-12/1225368697.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-12/1225368697.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "148",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-06-12 18:32:11"
+      }
+    ]
+  },
+  "irm_sentiment": {
+    "sentiment_score": -0.16666666666666666,
+    "irm_count": 6,
+    "sample_topics": [
+      "董秘您好。根据英伟达6月GTC大会、台积电官方披露，双方合作的CPO产品已正式量",
+      "为何万亿公司的董秘回答比AI更浅显模糊，是准备进军AI大模型业务吗，在定点试验吗",
+      "请教，日本于2月份禁止高端晶振出口，公司如何保障晶振的正常采购？",
+      "请问公司在验证卓胜微的光电芯片么",
+      "董秘您好，公司二季度经营状况如何？上游物料（如100/200g eml光芯片）是"
+    ],
+    "confidence": 0.6,
+    "source": "cninfo_irm",
+    "records": [
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "董秘您好。根据英伟达6月GTC大会、台积电官方披露，双方合作的CPO产品已正式量产，下半年将大规模出货。CPO技术会直接替代传统高端可插拔光模块，行业普遍担忧公司主力800G、1.6T产品订单被分流、盈利空间受压。请问该事件是否会对公司业绩形成实质性冲击？面对海外巨头技术迭代冲击，公司在CPO、硅光、LPO领域的技术储备、落地进度及客户拓展能否有效对冲风险？",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-19 14:11:12",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-19 14:11:12"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "为何万亿公司的董秘回答比AI更浅显模糊，是准备进军AI大模型业务吗，在定点试验吗，未来真的会在CPO研发方面具有竞争力吗？",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-19 00:48:28",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-19 00:48:28"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "请教，日本于2月份禁止高端晶振出口，公司如何保障晶振的正常采购？",
+        "answer": "投资者您好，公司核心原材料供应稳定。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-13 20:27:30",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-13 20:27:30"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "请问公司在验证卓胜微的光电芯片么",
+        "answer": "投资者您好，公司和哪家厂商有无合作以及具体合作关系，属于商业秘密，不便披露，敬请谅解！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-15 03:52:22",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-15 03:52:22"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "董秘您好，公司二季度经营状况如何？上游物料（如100/200g eml光芯片）是否备料充足？如外围控货，建议加快国产替代方案，光迅、长光华芯等都是优秀的合作对象。\n谢谢",
+        "answer": "投资者您好，1、公司二季度经营情况会在后续半年度报告里进行披露；2、公司会对上游核心物料积极备货以支持订单交付。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-14 02:01:16",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-14 02:01:16"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "美国国防部把中际旭创加入 1260H清单（CMC清单，所谓“中国涉军企业”）,对公司影响大吗？公司真的涉及军工吗？",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-15 07:58:11",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-15 07:58:11"
+      }
+    ]
+  },
+  "social_discussion_rows": 6,
+  "social_event_rows": 6,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-13T12:04:48.252520",
+  "as_of_date": "2026-06-19",
+  "data_quality": {
+    "ok": true,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 6,
+    "cutoff_date": "2026-06-19 19:30:00"
+  }
+}

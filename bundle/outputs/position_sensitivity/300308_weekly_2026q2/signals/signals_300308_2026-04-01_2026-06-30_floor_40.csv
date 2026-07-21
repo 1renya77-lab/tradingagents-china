@@ -1,0 +1,100 @@
+date,ticker,experiment_mode,status,error_message,action,confidence,risk_score,target_price,action_score,score,target_position,position_gate_notes,position_calibration,evidence_scores,reasoning,position_sensitivity_variant
+2026-04-03,300308,multi_agent_full_debate,ok,,持有,0.68,0.42,637.0,0.5,0.5,0.4,,"{""target_position"": 0.35, ""raw_position"": 0.35, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 3.5, ""reward_risk_score"": 3.5, ""catalyst_strength"": 3.8, ""drawdown_risk"": 2.8, ""data_quality"": 4.0, ""position_invalid_if"": ""若股价放量跌破570-575元区间且伴随大阴线（跌幅超过3%），或MACD的DIF下穿DEA形成死叉且开口持续扩大，或出现一季报大幅不及预期、核心客户流失等可验证负面证据，应将仓位降至20%以下。""}","**决策基础：三位分析师的核心分歧在于仓位水平，而非方向。** 激进分析师建议40-50%，安全分析师建议20-30%，中性分析师建议30-40%。作为主席，我选择35%作为折中立场，理由如下：
+
+**支持持有的核心证据：**
+1. **年报业绩是硬支撑**：2025年净利润107.97亿同比增长108.78%，经营现金流净额108.96亿超过净利润本身——这种盈利质量在A股市场十年难遇，说明利润
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-04-10,300308,multi_agent_full_debate,ok,,持有,0.7,0.48,750.0,0.5,0.5,0.45,,"{""target_position"": 0.45, ""raw_position"": 0.45, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 4.0, ""reward_risk_score"": 2.5, ""catalyst_strength"": 3.5, ""drawdown_risk"": 4.0, ""data_quality"": 4.0, ""position_invalid_if"": ""有效跌破660元（减仓至25-30%）；成交量持续萎缩伴随价格下跌（减仓信号）；一季报严重不及预期（清仓或大幅减仓至20%以下）""}","**综合评估与仓位决策**
+
+一、核心矛盾分析
+
+本次辩论的核心分歧在于：激进分析师强调""基本面质变+趋势未破=可重仓""（建议65-75%），保守分析师强调""技术极端超买+估值压力+单票集中风险""（建议30-40%），中性分析师提出45-50%的平衡方案。
+
+二、主要上行证据
+
+1. 基本面确实强劲：净利润108亿（+108.78%）、经营现金流109亿（+244%）、净利率突破30%、ROE 4
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-04-17,300308,multi_agent_full_debate,ok,,持有,0.6,0.55,870.0,0.5,0.5,0.42,,"{""target_position"": 0.42, ""raw_position"": 0.42, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 4.0, ""reward_risk_score"": 2.5, ""catalyst_strength"": 3.5, ""drawdown_risk"": 3.5, ""data_quality"": 3.5, ""position_invalid_if"": ""1. 有效跌破789元（MA5），需减仓至25-30%；2. 成交量出现顶背离且价格无法创新高；3. 基本面出现重大利空（如大客户砍单或业绩下修）；4. 跌破728元（MA10）需清仓""}","**决策理由**：本周期（5个交易日）维持持有建议，target_position设定为42%。
+
+**主要上行证据**：
+1. Q1净利润同比增长262%，净利率达32%，规模效应持续释放，AI算力光模块需求具备确定性；
+2. 均线系统完美多头排列，MACD红柱放大，中期上升趋势未破坏；
+3. DCF中性估值750-850元，当前850元处于区间上沿但未明显泡沫化；
+4. 2026年Q1经营现金
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-04-24,300308,multi_agent_full_debate,ok,,持有,0.65,0.55,920.0,0.5,0.5,0.6,,"{""target_position"": 0.6, ""raw_position"": 0.6, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 4.0, ""reward_risk_score"": 3.5, ""catalyst_strength"": 4.0, ""drawdown_risk"": 3.5, ""data_quality"": 3.5, ""position_invalid_if"": ""若放量跌破838元收盘确认，应减仓至50%；若进一步跌破820元，应清仓至20%以下观察；若出现财报miss、重大客户流失、技术路线被颠覆等实质恶化证据，应立即降仓。""}","**一、主要上行证据（支持持有而非减仓）**：1）2026Q1净利润同比增长273.66%，毛利率从33.81%升至46.06%，净利率从22.51%升至32.40%，盈利能力显著提升；2）1.6T产品已量产出货且季度出货量环比提升，非概念炒作；3）管理层在4月24日业绩说明会上确认2026年全年订单在手，业绩能见度高；4）4月23日市值突破万亿、成交额185.93亿元（A股第一），机构资金和游资
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-05-01,300308,multi_agent_full_debate,ok,,持有,0.58,0.55,920.0,0.5,0.5,0.4,,"{""target_position"": 0.2, ""raw_position"": 0.2, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 2.5, ""reward_risk_score"": 2.8, ""catalyst_strength"": 2.5, ""drawdown_risk"": 3.0, ""data_quality"": 3.8, ""position_invalid_if"": ""股价有效跌破¥781（MA20收盘连续3日无法收复），或Q2财报预告大幅不及预期，或主要云厂商大幅下调AI资本开支指引，或成交量出现异常放大同时股价加速下跌的出货形态。""}","**综合评估**：三位分析师的核心分歧集中在仓位幅度（10-15% vs 25-30% vs 65%），背后是对MACD高位死叉、DIF数值为61的解读，以及PE 64倍的风险定价。
+
+**支持当前仓位的核心证据**：
+1. 基本面确定性提供中期底部支撑：2025年净利润115.8亿元、同比增长115.57%，1.6T产品已量产且季度出货量环比提升，已接部分客户2026年全年订单——这些硬数据在未
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-05-08,300308,multi_agent_full_debate,ok,,持有,0.72,0.45,920.0,0.5,0.5,0.4,,"{""target_position"": 0.35, ""raw_position"": 0.35, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 3.5, ""reward_risk_score"": 3.0, ""catalyst_strength"": 3.0, ""drawdown_risk"": 2.8, ""data_quality"": 3.5, ""position_invalid_if"": ""收盘跌破850元止损；MACD死叉且RSI跌破50确认中期趋势衰竭；Q2财报增速环比大幅下滑（如低于80%）触发估值重估；股价创新高但量能连续3日萎缩至均量60%以下表明动能衰竭。""}","【核心判断依据】本决策基于技术面、基本面、产业趋势三个维度的综合评估，权重分别为35%、40%、25%。
+
+【主要上行证据】
+1. 基本面：2026年Q1净利润63.17亿元，同比增速273%，远超市场预期；毛利率46.06%、净利率32.40%、ROE44.16%，三项核心盈利指标均创历史新高，说明公司正处于成长加速期而非增速顶部。
+2. 技术面：MA5上穿MA10/MA20/MA60形成周线级
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-05-15,300308,multi_agent_full_debate,ok,,持有,0.65,0.6,1100.0,0.5,0.5,0.4,,"{""target_position"": 0.35, ""raw_position"": 0.35, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 4.0, ""reward_risk_score"": 2.5, ""catalyst_strength"": 3.0, ""drawdown_risk"": 3.5, ""data_quality"": 3.5, ""position_invalid_if"": ""收盘价有效跌破897元(MA20)意味着中期上升趋势破坏，应清仓；或出现POET EOI技术替代被实质性证伪公司业务模式时也应减仓""}","**主要上行证据：** 1) Q1净利润同比增长273%、毛利率46%、ROE44%——A股罕见的顶级财务数据；2) 均线系统维持完美多头排列，MACD柱状图42.015仍在扩张；3) 缩量整理确认筹码锁定良好，属蓄势而非出货；4) AI算力资本开支是真实的产业趋势，非概念炒作。**主要下行风险：** 1) RSI三周期78.3-78.8一致性超买+BOLL 94.8%位置，回调概率极高；2) 从
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-05-22,300308,multi_agent_full_debate,ok,,持有,0.68,0.55,1123.0,0.5,0.5,0.4,,"{""target_position"": 0.4, ""raw_position"": 0.4, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 3.8, ""reward_risk_score"": 2.5, ""catalyst_strength"": 3.0, ""drawdown_risk"": 3.2, ""data_quality"": 3.5, ""position_invalid_if"": ""①价格收盘有效跌破¥990；②成交量连续3日萎缩超30%；③基本面出现重大负面信号（如业绩下修、行业政策利空、出口管制升级）；④RSI在高位（>75）出现顶背离结构""}","**核心判断依据**：
+
+1. **主要上行证据**：激进分析师的基本面论点成立——Q1净利润同比增长273.66%是真实兑现的数字而非预期，毛利率46.06%、ROE 44.16%展现的是产品定价权和盈利质量而非情绪泡沫。PEG按年化增速计算约0.77，小于1说明估值与增长仍有匹配空间。MACD红柱放大、DIF/DEA开口扩张、RSI三周期处于62-66的强势区域（未超买），均线多头排列——技术
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-05-29,300308,multi_agent_full_debate,ok,,持有,0.65,0.6,,0.5,0.5,0.4,,"{""target_position"": 0.4, ""raw_position"": 0.4, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 3.5, ""reward_risk_score"": 3.0, ""catalyst_strength"": 2.5, ""drawdown_risk"": 3.5, ""data_quality"": 3.5, ""position_invalid_if"": ""有效跌破1013元三重支撑；Q2增速低于50%导致PE从86倍压缩至50倍以下；日成交>200万股且收盘跌破1080元""}","## 辩论裁定与最终仓位决策
+
+### 为什么不是激进方的5-7成仓位？
+激进分析师的核心逻辑是三重支撑1013元提供了1:4到1:5的赔率，但这一计算存在三个根本缺陷：
+1. **概率分布主观**：45%概率涨至1280-1350元、5%概率跌至1013元缺乏历史统计依据；中性分析师的反驳指出这是主观假设而非可验证数据。
+2. **忽视估值压缩风险**：PE 86倍已price-in273%增速
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-06-05,300308,multi_agent_full_debate,ok,,持有,0.55,0.65,1195.0,0.5,0.5,0.4,,"{""target_position"": 0.1, ""raw_position"": 0.1, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 2.5, ""reward_risk_score"": 2.5, ""catalyst_strength"": 2.5, ""drawdown_risk"": 3.5, ""data_quality"": 3.5, ""position_invalid_if"": ""收盘跌破MA10（1172元）确认有效破位，或成交量持续维持300亿以上高位不萎缩，或6月12日股东大会释放明显利空信息。""}","**核心判断依据**：经过审慎评估三位分析师的论点，我的裁决采纳中性分析师的平衡视角，但更偏向保守一端，target_position设定为10%（即0.1）。
+
+**主要上行证据**：
+1. 基本面确实强劲：273%净利润增速、ROE年化70%+、净利率32%+是客观事实，现金流质量良好（CFO/净利润匹配度94%），中长期逻辑清晰
+2. MACD仍在零轴上方，多头格局未完全破坏
+3. 行业趋势
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-06-12,300308,multi_agent_full_debate,ok,,持有,0.65,0.55,,0.5,0.5,0.4,,"{""target_position"": 0.35, ""raw_position"": 0.35, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 2.5, ""reward_risk_score"": 3.0, ""catalyst_strength"": 2.5, ""drawdown_risk"": 3.0, ""data_quality"": 3.5, ""position_invalid_if"": ""1131元（MA20+布林带中轨+MA60三重支撑）有效跌破且当日无法收回，或中报确认CFO/净利润比率持续恶化超过20个百分点，或出现实质性利空公告（重大客户流失、政策限制、出口管制落地）""}","**主要上行证据：** Q1基本面数据极为强劲——净利润增长273.66%、毛利率46%、年化ROE约70%、净利率32%，这些数字在A股乃至全球光模块行业都是顶级水平。PE约28倍处于历史中位偏上，虽不便宜但没有明显泡沫，作为全球光模块龙头存在长期估值修复空间。1131元三重支撑（MA20、布林带中轨、MA60）目前仍然有效，下行空间有限。
+
+**主要下行风险：** 技术面明确偏弱——MACD顶
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-06-19,300308,multi_agent_full_debate,ok,,持有,0.65,0.6,1450.0,0.5,0.5,0.65,,"{""target_position"": 0.65, ""raw_position"": 0.65, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 4.2, ""reward_risk_score"": 3.5, ""catalyst_strength"": 3.8, ""drawdown_risk"": 3.5, ""data_quality"": 3.5, ""position_invalid_if"": ""RSI6跌破75且成交量萎缩；股价有效跌破1257（MA5）；出现高位放量阴线（跌幅>5%且成交量>400亿）；公司发布重大负面公告（如业绩miss、供应链断裂、大客户流失）""}","作为风险管理委员会主席，我在充分评估三方分析师的论据后，做出以下决策：
+
+**主要上行证据**：
+1. 基本面极强：Q1净利润同比增长273.66%，毛利率从33.81%跳升至46.06%，这是产品竞争力质变的真实证据，不是概念炒作
+2. 趋势结构完整：均线多头排列、MACD红柱扩张，短期上升通道保持完好
+3. 资金关注度高：381.8亿成交额说明该股是当前市场最强主线之一，机构资金在积极参与
+
+
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-06-26,300308,multi_agent_full_debate,ok,,持有,0.68,0.72,1320.0,0.5,0.5,0.45,,"{""target_position"": 0.45, ""raw_position"": 0.45, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 2.8, ""reward_risk_score"": 2.5, ""catalyst_strength"": 3.2, ""drawdown_risk"": 3.5, ""data_quality"": 3.8, ""position_invalid_if"": ""若股价有效跌破MA60（¥1,227）且3日内无法收复，或成交量持续萎缩至100万股以下，或融资余额单周下降超20%，则必须减仓至30%以下；若中报业绩不及预期（净利润同比低于100%），则清仓离场。""}","**综合评估与决策理由**
+
+一、主要上行证据
+1. 基本面极为强劲：Q1净利润同比+273.66%，ROE 44%，净利率32%，这是实实在在的业绩爆发，非预期兑现；
+2. 行业景气度持续：AI算力超级周期刚刚开始，800G/1.6T光模块需求旺盛，中际旭创作为全球龙头直接受益；
+3. 资金面确认：大资金认可（融资净买入¥40.19亿全市场第一、成交额全市场第一），中期均线多头排列未破。
+
+二、
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40
+2026-06-30,300308,multi_agent_full_debate,ok,,持有,0.65,0.6,1350.0,0.5,0.5,0.4,,"{""target_position"": 0.35, ""raw_position"": 0.35, ""constraints"": [], ""mode"": ""none""}","{""trend_strength"": 3.0, ""reward_risk_score"": 2.5, ""catalyst_strength"": 3.0, ""drawdown_risk"": 3.5, ""data_quality"": 3.0, ""position_invalid_if"": ""收盘跌破1230元减仓50%，跌破1200元清仓或降至10%以下；若放量突破1350元并连续两日站稳，可考虑追加至45-50%。""}","## 决策依据
+
+### 一、主要上行证据
+1. **基本面极其优秀**：Q1净利润增速273%、毛利率46%、年化ROE70%，处于AI算力光模块产业景气的核心位置，短期内没有基本面向下的催化剂。
+2. **中期趋势未破**：MA20（1244.53元）和MA60（1239.08元）均在当前价格下方，布林带中轨1244.53元提供技术支撑，中期上升格局保持完整。
+3. **产业趋势明确**：AI
+
+[POSITION_SENSITIVITY] floor_40: post-hoc diagnostic target_position override; original TradingAgents signal is unchanged.",floor_40

@@ -1,0 +1,150 @@
+{
+  "ticker": "600276",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.125,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 5,
+    "sample_titles": [
+      "恒瑞医药关于获得药品注册批准的公告",
+      "恒瑞医药关于获得药物临床试验批准通知书的公告",
+      "H股公告-证券变动月报表",
+      "恒瑞医药关于回购公司A股股份的进展公告",
+      "H股公告-翌日披露报表"
+    ],
+    "confidence": 0.5,
+    "source": "cninfo_announcements",
+    "records": [
+      {
+        "title": "恒瑞医药关于获得药品注册批准的公告",
+        "type": "",
+        "date": "2026-05-29 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225335039",
+        "announcement_id": "1225335039",
+        "adjunct_url": "finalpage/2026-05-29/1225335039.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-29/1225335039.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "100",
+        "_audit_time": "2026-05-29 00:00:00",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+        "type": "",
+        "date": "2026-05-29 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225335036",
+        "announcement_id": "1225335036",
+        "adjunct_url": "finalpage/2026-05-29/1225335036.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-29/1225335036.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "92",
+        "_audit_time": "2026-05-29 00:00:00",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "H股公告-证券变动月报表",
+        "type": "",
+        "date": "2026-06-03 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225345823",
+        "announcement_id": "1225345823",
+        "adjunct_url": "finalpage/2026-06-03/1225345823.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-03/1225345823.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "136",
+        "_audit_time": "2026-06-03 00:00:00",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "恒瑞医药关于回购公司A股股份的进展公告",
+        "type": "",
+        "date": "2026-06-03 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225345390",
+        "announcement_id": "1225345390",
+        "adjunct_url": "finalpage/2026-06-03/1225345390.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-03/1225345390.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "121",
+        "_audit_time": "2026-06-03 00:00:00",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "H股公告-翌日披露报表",
+        "type": "",
+        "date": "2026-06-05 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225351874",
+        "announcement_id": "1225351874",
+        "adjunct_url": "finalpage/2026-06-05/1225351874.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-05/1225351874.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "134",
+        "_audit_time": "2026-06-05 00:00:00",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": ""
+      }
+    ]
+  },
+  "irm_sentiment": {
+    "sentiment_score": 0,
+    "irm_count": 0,
+    "sample_topics": [],
+    "confidence": 0,
+    "note": "当前窗口内无可审计 CNInfo 互动易问答",
+    "records": []
+  },
+  "social_discussion_rows": 0,
+  "social_event_rows": 5,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-14T01:38:53.389294",
+  "as_of_date": "2026-06-05",
+  "data_quality": {
+    "ok": false,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 0,
+    "cutoff_date": "2026-06-05 19:30:00"
+  }
+}

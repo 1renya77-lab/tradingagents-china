@@ -1,0 +1,147 @@
+{
+  "ticker": "600276",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.125,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0.0,
+    "positive_ratio": 0.0,
+    "negative_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "news_count": 1,
+    "confidence": 0.1,
+    "sample_titles": [
+      "恒瑞医药600276.SH)：瑞维鲁胺片上市许可申请获EMA受理"
+    ],
+    "records": [
+      {
+        "title": "恒瑞医药600276.SH)：瑞维鲁胺片上市许可申请获EMA受理",
+        "content": "2026年6月22日，恒瑞医药600276.SH)发布公告称，公司收到欧洲药品管理局正式确认并受理瑞维鲁胺片上市许可申请的通知。 根据公告，瑞维鲁胺片为第二代AR抑制剂，拟用于联合雄激素剥夺治疗（ADT）治疗高瘤负荷转移性激素敏感性前列腺癌成年男性患者。",
+        "source": "界面新闻",
+        "publish_time": "2026-06-22T16:51:39",
+        "url": "http://finance.eastmoney.com/a/202606223778070985.html"
+      }
+    ]
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 4,
+    "sample_titles": [
+      "恒瑞医药关于药品上市许可申请获EMA受理的提示性公告",
+      "恒瑞医药关于撤回药品注册申请的公告",
+      "恒瑞医药关于获得药品注册批准的公告",
+      "恒瑞医药关于获得药物临床试验批准通知书的公告"
+    ],
+    "confidence": 0.4,
+    "source": "cninfo_announcements",
+    "records": [
+      {
+        "title": "恒瑞医药关于药品上市许可申请获EMA受理的提示性公告",
+        "type": "",
+        "date": "2026-06-23 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225380471",
+        "announcement_id": "1225380471",
+        "adjunct_url": "finalpage/2026-06-23/1225380471.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-23/1225380471.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "119",
+        "_audit_time": "2026-06-23 00:00:00",
+        "text_excerpt": "证券代码：600276      证券简称：恒瑞医药          公告编号：临 2026-087\n\n              江苏恒瑞医药股份有限公司\n  关于药品上市许可申请获 EMA 受理的提示性公告\n\n   本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述\n或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。\n\n   近日，江苏恒瑞医药股份有限公司（以下简称“公司”）收到了欧洲药品管\n理局（European Medicines Agency，以下简称“EMA”）的通知,EMA 正式确认并\n受理公司递交的瑞维鲁胺片的上市许可申请，这是公司首个自主研发的创新药向\n欧盟递交上市申请。现将相关情况公告如下：\n   一、 药品的基本情况\n   药品名称：瑞维鲁胺片\n   剂型：片剂\n   拟定适应症（或功能主治）：适用于联合雄激素剥夺治疗（ADT），治疗高\n瘤负荷的转移性激素敏感性前列腺癌（mHSPC）成年男性患者。\n   二、 药品的临床试验情况\n   此次申报上市，是基于一项国际多中心、随机、对照Ⅲ期临床试验 SHR-3680-\nⅢ-HSPC 研究（CHART 研究）。该研究旨在评估瑞维鲁胺联合 ADT 对比比卡鲁胺\n联合 ADT，用于高瘤负荷转移性激素敏感性前列腺癌（mHSPC）患者的疗效与安全\n性。此国际多中心临床研究由复旦大学附属肿瘤医院叶定伟教授担任全球主要研\n究者，该研究在中国和欧洲的 72 家研究中心共同开展。研究共纳入 654 例高瘤\n负荷 mHSPC 受试者，按 1:1 随机分配至试验组（瑞维鲁胺联合 ADT）和对照组（比\n卡鲁胺联合 ADT）。主要终点为基于独立评审委员会（IRC）评估的影像学无进展\n生存期（rPFS）和总生存期（OS）；次要终点包括研究者评估的 rPFS、至 PSA 进\n展时间、至下次骨相关事件时间、至下次抗前列腺癌治疗开始时间、客观缓解率\n（ORR）等。\n   研究结果显示，瑞维鲁胺联合 ADT 一线治疗高瘤负荷 mHSPC 具有显著的生存\n\f获益和可耐受的安全性。截至 2022 年 2 月 28 日,相较于对照组，瑞维鲁胺组患\n者发生影像学进展或死亡的风险降低 54%（中位 rPFS：NR vs 23.5 个月；HR=0.46，\n95% Cl 0.36-0.60）。OS 方面，瑞维鲁胺组患者的 OS 显著延长，死亡风险降低\n了 42%（中位 OS：NR vs NR；HR=0.58，95% Cl 0.44-0.77，p=0.0001）。该研\n究结果已于 2022 年发表于《柳叶刀-肿瘤学》（The Lancet Oncology）[1]。基于\n该研究的期中分析阳性结果，瑞维鲁胺片已于 2022 年 6 月在国内获批上市，用\n于治疗高瘤负荷的转移性激素敏感性前列腺癌（mHSPC）患者。截至 2025 年 6 月\n6 日，中位随访 72.8 个月后，OS 的最终分析显示，相较于对照组，瑞维鲁胺组\n的 OS 仍持续获益，死亡风险降低 41%（中位 OS：78.8 个月 vs 44.8 个月；\nHR=0.59，95% Cl 0.47-0.73）。该更新结果已在美国临床肿瘤学会（ASCO）2026\n年年会进行了壁报展示[2]。基于本项研究，公司向 EMA 递交了本次上市申请。\n   三、药品的其他情况\n   前列腺癌是全球男性中发病率位居第二、死亡率第五的恶性肿瘤。2022 年，\n全球新确诊患者 146.7 万人，死亡病例超过 39.7 万人，在 118 个地区位居发病\n率首位，已严重威胁人类健康[3]。在欧洲，前列腺癌是男性发病率位居第一、死\n亡率第三的恶性肿瘤[4]。前列腺癌细胞的生长具有雄激素依赖性，由于雄激素受\n体(AR)信号通路的持续激活，转移性激素敏感性前列腺癌患者即使接受了去势疗\n法，仍会不可避免地发展为转移性去势抵抗性前列腺癌（mCRPC）并进展，而 mCRPC\n的五年生存率不足 30%[5] 。以二代 AR 抑制剂联合去势疗法可以有效延缓进入\nmCRPC 的时间，并显著延长患者的总生存期[6-8]。\n   瑞维鲁胺片是第二代 AR 抑制剂，相较于第一代 AR 抑制剂，具有更强的 AR\n抑制作用，且无激动作用。目前国内外有恩扎卢胺、阿帕他胺、达罗他胺等多个\n第二代 AR 抑制剂上市。经查询 EvaluatePharma 数据库，瑞维鲁胺片同类产品\n2025 年全球销售额合计约 128.9 亿美元。截至目前，瑞维鲁胺片相关项目累计\n研发投入约 73,340 万元（未经审计）。\n   四、风险提示\n   根据 EMA 药品注册相关的法律法规要求，上述药品获得 EMA 上市申请受理后\n仍须经过一系列的审评过程，审评周期及审评结果尚具有不确定性。药品从研制、\n临床试验报批到投产的周期长、环节多，药品研发及至上市容易受到一些不确定\n\f性因素的影响，敬请广大投资者谨慎决策，注意防范投资风险。公司将按国家有\n关规定积极推进上述研发项目，并及时对项目后续进展情况履行信息披露义务。\n\n      特此公告。\n\n                                                          江苏恒瑞医药股份有限公司董事会\n                                                                                  2026 年 6 月 22 日\n\n[1]. Gu W, et al. Rezvilutamide versus bicalutamide in combination with androgen-deprivation therapy in\npatients with high-volume, metastatic, hormone-sensitive prostate cancer (CHART): a randomised, open-\nlabel, phase 3 trial. The Lancet Oncology. 2022 Oct;23(10):1249–60.\n[2]. Dingwei Ye, et al.Rezvilutamide (Rez) versus bicalutamide (Bic) plus androgen-deprivation therapy\n(ADT) in high-volume, metastatic, hormone-sensitive prostate cancer (mHSPC): 5-year outcomes of the\nphase 3 CHART trial. J Clin Oncol 44, 5090-5090(2026).\n[3]. Bray Freddie, et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality\nworldwide for 36 cancers in 185 countries.CA Cancer J Clin. 2024 May-Jun;74(3):229-263.\n[4]. Union, E. Prostate cancer burden in EU-27. 2021.\n[5].中国抗癌协会泌尿男生殖系肿瘤专业委员会. 2018 版转移性前列腺癌诊治中国专家共识. 中华外科杂志.\n2018;56(9):646.\n[6].中国临床肿瘤学会(CSCO)前列腺癌诊疗指南. 2025.\n[7].中国肿瘤整合诊治指南（CACA) 前列腺癌. 2025.\n[8]. EAU - EANM - ESTRO ESUR - ISUP - SIOG Guidelines on Prostate Cancer. 2026.",
+        "text_status": "ok",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "恒瑞医药关于撤回药品注册申请的公告",
+        "type": "",
+        "date": "2026-06-24 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225383767",
+        "announcement_id": "1225383767",
+        "adjunct_url": "finalpage/2026-06-24/1225383767.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-24/1225383767.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "95",
+        "_audit_time": "2026-06-24 00:00:00",
+        "text_excerpt": "证券代码：600276         证券简称：恒瑞医药    公告编号：临 2026-088\n\n              江苏恒瑞医药股份有限公司\n           关于撤回药品注册申请的公告\n\n  本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述\n或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。\n\n  近日，江苏恒瑞医药股份有限公司（以下简称“公司”）收到国家药品监督\n管理局（以下简称“国家药监局”）签发的《药品注册申请终止通知书》，同意\n公司撤回艾玛昔替尼软膏的药品注册申请。现将相关情况公告如下：\n     一、药品的基本情况\n     药物名称：艾玛昔替尼软膏（SHR0302 碱软膏）\n     剂型：软膏剂\n  受理号：CXHS2500018\n     申请人：江苏恒瑞医药股份有限公司\n     拟定适应症（或功能主治）：本品适用于成人轻度至中度特应性皮炎的局\n     部外用治疗。\n     二、药品的其他情况\n  2025 年 2 月，公司向国家药监局药品审评中心提交了艾玛昔替尼软膏的上\n市许可申请并获受理。因该药品需进一步完善申报资料，经公司与国家药品审评\n中心沟通后，公司决定撤回注册申请。公司将根据项目情况及时履行信息披露义\n务。\n  艾玛昔替尼软膏是一种外用、高选择性的 JAK1 抑制剂，可通过高局部暴露\n更好地抑制 JAK1 信号传导，发挥抗炎和抑制免疫的生物学效应。公司同靶点片\n剂产品硫酸艾玛昔替尼片已于 2025 年 3 月获批上市，现已获批四个适应症，包\n括强直性脊柱炎、特应性皮炎、类风湿关节炎和斑秃。\n  针对特应性皮炎适应症，目前全球范围内有同类涂抹药物 Incyte/康哲药业\n\f的 Ruxolitinib 乳膏（OPZELURA®）和日本烟草/鸟居制药的 Delgocitinib 软膏\n（CORECTIM®）获批上市。经查询，2025 年以上同类产品全球销售额合计约为 7.29\n亿美元。截至目前，艾玛昔替尼（含片剂、软膏剂和凝胶剂型）相关项目累计研\n发投入约 122,240 万元（未经审计）。\n   三、对公司的影响及风险提示\n   本次撤回艾玛昔替尼软膏药品注册申请不会对公司当期及未来生产经营与\n业绩产生重大影响，公司将高效推进后续各项工作。药品从研制、临床试验报批\n到投产的周期长、环节多，药品研发及至上市容易受到一些不确定性因素的影响，\n敬请广大投资者谨慎决策，注意防范投资风险。公司将按国家有关规定积极推进\n上述研发项目，并及时对项目后续进展情况履行信息披露义务。\n\n   特此公告。\n\n                              江苏恒瑞医药股份有限公司董事会\n                                         2026 年 6 月 23 日",
+        "text_status": "ok",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "恒瑞医药关于获得药品注册批准的公告",
+        "type": "",
+        "date": "2026-06-26 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225388513",
+        "announcement_id": "1225388513",
+        "adjunct_url": "finalpage/2026-06-26/1225388513.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-26/1225388513.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "116",
+        "_audit_time": "2026-06-26 00:00:00",
+        "text_excerpt": "证券代码：600276         证券简称：恒瑞医药   公告编号：临 2026-091\n\n              江苏恒瑞医药股份有限公司\n          关于获得药品注册批准的公告\n\n  本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述\n或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。\n\n  近日，江苏恒瑞医药股份有限公司（以下简称“公司”）子公司上海盛迪医\n药有限公司收到国家药品监督管理局（以下简称“国家药监局”）的通知，批准\n公司阿得贝利单抗注射液新增非小细胞肺癌（NSCLC）围术期适应症，这是阿得\n贝利单抗在肺癌领域获批的第二项适应症，也由此成为国内首个获批 NSCLC 围术\n期适应症的国产 PD-L1 抑制剂。现将相关情况公告如下：\n  一、 药品的基本情况\n  药品名称：阿得贝利单抗注射液\n  剂型：注射剂\n  规格：600mg(12ml)/瓶\n  注册分类：治疗用生物制品 2.2 类\n  受理号：CXSS2500099\n  处方药/非处方药：处方药\n  批准的适应症：本品联合含铂化疗作为新辅助治疗，术后继续以本品作为单\n药辅助治疗，用于治疗可手术切除的Ⅱ、ⅢA 和ⅢB 期且无已知表皮生长因子受\n体(EGFR)突变或间变性淋巴瘤激酶(ALK)重排的成人非小细胞肺癌(NSCLC)患者。\n  二、药品的已获批适应症情况\n  阿得贝利单抗注射液已于 2023 年 2 月获批上市，获批的适应症为与卡铂和\n依托泊苷联合用于广泛期小细胞肺癌患者的一线治疗。\n  三、药品的其他情况\n  最新发布的中国癌症疾病负担报告显示：肺癌是中国发病率及死亡率最高的\n恶性肿瘤 2，其中 NSCLC 是主要的病理亚型，约占所有肺癌的 80%～85%。根治性\n\f手术切除是早期 NSCLC 治疗的主要手段，但是术后复发仍是临床治疗的难题。一\n项纳入 1060 个手术研究组的荟萃分析（CHEST 研究）显示：即使肿瘤被成功切\n除，超半数（50-66%）的Ⅱ-Ⅲ期患者仍可能在未来五年内面临复发的风险 3。尽\n管围手术期化疗（新辅助或辅助化疗）加入到临床实践中，但仅能将 5 年生存率\n提高约 5%4,5，临床迫切需要更优的系统治疗手段。近年来，免疫治疗领域的突破\n为早期 NSCLC 治疗带来新的选择，国内外多项围术期免疫治疗Ⅲ期研究证实在新\n辅助及辅助治疗阶段加入免疫治疗可为患者带来显著的生存获益，已成为国内外\n权威指南推荐的新标准 6。\n   此次阿得贝利单抗新适应症获批是基于广东省人民医院吴一龙教授牵头的\n一项随机、双盲、多中心的 Ib/Ⅲ期临床研究（SHR-1316-Ⅲ-303）Ⅲ期阶段的期\n中分析结果 1。数据显示，阿得贝利单抗注射液联合化疗组主要病理缓解（MPR）\n率高达 53.8%，为对照组的近三倍；2 年无事件生存（EFS）率达 74.8%，可显著\n降低 48%的疾病复发、进展或死亡风险；手术率高达 88.8%。阿得贝利单抗联合\n化疗组在 MPR 和 EFS 两项主要终点上均取得了统计学显著且具有临床意义的改\n善，且整体安全性良好，未发现新的安全性信号 1。\n   阿得贝利单抗注射液是公司自主研发的人源化抗 PD-L1 单克隆抗体，能通过\n特异性结合 PD-L1 分子从而阻断导致肿瘤免疫耐受的 PD-1/PD-L1 通路，重新激\n活免疫系统的抗肿瘤活性，从而达到治疗肿瘤的目的。国外有同类产品\nAtezolizumab（商品名：Tecentriq）、Avelumab(商品名：Bavencio)和 Durvalumab\n（商品名：Imfinzi）于美国获批上市销售，其中 Atezolizumab 和 Durvalumab\n已 在 中 国 获 批 上 市 。 国 内 另 有 多 款 同 类 产 品 获 批 上 市 。 经 查 询 ， 2025 年\nAtezolizumab、Avelumab 和 Durvalumab 全球销售额合计约为 110.54 亿美元。\n截至目前，阿得贝利单抗注射液相关项目累计研发投入约 122,510 万元。\n   四、风险提示\n   公司高度重视药品研发，并严格控制药品研发、制造及销售环节的质量及安\n全。药品获得批件后生产和销售容易受到一些不确定性因素的影响。敬请广大投\n资者谨慎决策，注意防范投资风险。\n\f      特此公告。\n\n                                                          江苏恒瑞医药股份有限公司董事会\n                                                                                2026 年 6 月 25 日\n\n1.   Yi-Long Wu, et al. Perioperative adebrelimab (A) plus chemotherapy (chemo) in resectable stage II-\nIII NSCLC: phase 3 EFS interim analysis (IA) and molecular residual disease (MRD) analysis. 2026 AACR\nAnnual Meeting. Abstract CT014.\n2.   郑荣寿，陈茹，韩冰峰等. 2022 年中国恶性肿瘤流行情况分析[J]. 中华肿瘤杂志, 2024, 46(3): 221-231.\n3.   Ravi, et al. Chest. 2024;165:1260.\n4.   NSCLC Meta-analysis Collaborative Group. Lancet. 2014;383:1561-1571.\n5.   NSCLC Meta-analysis Collaborative Group. Lancet. 2010;375:1267-1277\n6.   中国临床肿瘤学会（CSCO）.非小细胞肺癌诊疗指南 2025 版.",
+        "text_status": "ok",
+        "content": "",
+        "time": "",
+        "source": ""
+      },
+      {
+        "title": "恒瑞医药关于获得药物临床试验批准通知书的公告",
+        "type": "",
+        "date": "2026-06-26 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225388509",
+        "announcement_id": "1225388509",
+        "adjunct_url": "finalpage/2026-06-26/1225388509.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-26/1225388509.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "85",
+        "_audit_time": "2026-06-26 00:00:00",
+        "text_excerpt": "证券代码：600276      证券简称：恒瑞医药     公告编号：临 2026-089\n\n              江苏恒瑞医药股份有限公司\n      关于获得药物临床试验批准通知书的公告\n\n  本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述\n或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。\n\n  近日，江苏恒瑞医药股份有限公司（以下简称“公司”）收到国家药品监督\n管理局（以下简称“国家药监局”）核准签发关于 HRS-4508 片的《药物临床试\n验批准通知书》，将于近期开展临床试验。现将相关情况公告如下：\n  一、 药物的基本情况\n  药物名称：HRS-4508 片\n  剂   型：片剂\n  申请事项：临床试验\n  受 理 号：CXHL2600335\n  审批结论：根据《中华人民共和国药品管理法》及有关规定，经审查，2026\n年 3 月 17 日受理的 HRS-4508 片临床试验申请符合药品注册的有关要求，同意本\n品开展晚期实体瘤的临床试验。\n  二、药物的其他情况\n  HRS-4508 片是一种新型、高效、选择性的酪氨酸激酶抑制剂，通过抑制肿瘤\n细胞增殖发挥抗肿瘤作用。目前该项目多项Ⅱ期临床试验正在稳步推进，适应症\n覆盖乳腺癌、肺癌等。截至目前，HRS-4508 片相关项目累计研发投入约为 8,180\n万元(未经审计)。\n  三、风险提示\n  根据我国药品注册相关的法律法规要求，药物在获得药物临床试验批准通知\n书后，尚需开展临床试验并经国家药监局审评、审批通过后方可生产上市。药品\n从研制、临床试验报批到投产的周期长、环节多，药品研发及至上市容易受到一\n\f些不确定性因素的影响，敬请广大投资者谨慎决策，注意防范投资风险。公司将\n按国家有关规定积极推进上述研发项目，并及时对项目后续进展情况履行信息披\n露义务。\n\n  特此公告。\n\n                   江苏恒瑞医药股份有限公司董事会\n                           2026 年 6 月 25 日",
+        "text_status": "ok",
+        "content": "",
+        "time": "",
+        "source": ""
+      }
+    ]
+  },
+  "irm_sentiment": {
+    "sentiment_score": 0,
+    "irm_count": 0,
+    "sample_topics": [],
+    "confidence": 0,
+    "note": "当前窗口内无可审计 CNInfo 互动易问答",
+    "records": []
+  },
+  "social_discussion_rows": 0,
+  "social_event_rows": 5,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-14T01:38:54.806932",
+  "as_of_date": "2026-06-26",
+  "data_quality": {
+    "ok": false,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 0,
+    "cutoff_date": "2026-06-26 19:30:00"
+  }
+}

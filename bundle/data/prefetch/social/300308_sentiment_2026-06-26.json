@@ -1,0 +1,200 @@
+{
+  "ticker": "300308",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.09090909090909091,
+    "confidence": 0.275,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 1.0,
+    "positive_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "neutral_ratio": 0.0,
+    "news_count": 1,
+    "confidence": 0.1,
+    "sample_titles": [
+      "300308、002384、600487，融资客大举买入"
+    ],
+    "records": [
+      {
+        "title": "300308、002384、600487，融资客大举买入",
+        "content": "中际旭创（300308）、东山精密（002384）、亨通光电（600487）净买入额排名前三，依次为40.19亿元、25.61亿元、23.25亿元；兆易创新、天孚通信、寒武纪、生益科技、佰维存储等股紧随其后，净买入额均在12亿元以上。",
+        "source": "数据宝",
+        "publish_time": "2026-06-21T18:51:00",
+        "url": "http://finance.eastmoney.com/a/202606213777044854.html"
+      }
+    ]
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0,
+    "event_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "当前窗口内无 CNInfo 公告事件",
+    "records": []
+  },
+  "irm_sentiment": {
+    "sentiment_score": 0.0,
+    "irm_count": 10,
+    "sample_topics": [
+      "尊敬的董秘您好，请问贵司截止到6月18日股东人数是多少人？谢谢",
+      "最近中际旭创的重大项目进展、时间推进、项目状态",
+      "受上游原材料涨价传导因素，贵公司800G和1.6T产品是否已经涨价？涨价幅度是多",
+      "请问，公司应收账款是否到账及时？",
+      "请问，未来3年内，公司是否有年利润达到500亿-1000亿的可能性？"
+    ],
+    "confidence": 1.0,
+    "source": "cninfo_irm",
+    "records": [
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "尊敬的董秘您好，请问贵司截止到6月18日股东人数是多少人？谢谢",
+        "answer": "投资者您好，公司会在后续定期报告中披露股东人数情况，感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-19 22:56:34",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-19 22:56:34"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "最近中际旭创的重大项目进展、时间推进、项目状态",
+        "answer": "投资者您好，公司现有项目都在顺利推进。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-20 05:28:26",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-20 05:28:26"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "受上游原材料涨价传导因素，贵公司800G和1.6T产品是否已经涨价？涨价幅度是多少？",
+        "answer": "投资者您好，公司具体产品价格属于商业秘密不便披露，敬请谅解！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-21 10:18:32",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-21 10:18:32"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "请问，公司应收账款是否到账及时？",
+        "answer": "投资者您好，公司主要客户账期较短，回款情况良好。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-22 08:44:19",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-22 08:44:19"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "请问，未来3年内，公司是否有年利润达到500亿-1000亿的可能性？",
+        "answer": "投资者您好，公司未发布业绩指引，具体业绩情况均以公司披露的公告为准。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-22 08:45:51",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-22 08:45:51"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "在AI竞争中，光模块作为高科技战略资源，公司海外建厂是否存在技术外移？如果不存在，是不是意味技术要求不是那么高？",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-25 14:26:01",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-25 14:26:01"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "子公司耀科新材 年产200吨COFS项目试生产顺利，即将正式投产。请问是否属实？",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-23 14:12:03",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-23 14:12:03"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "你好，公司光互联vcsel芯片供应商是老鹰半导体吗？",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-22 08:28:49",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-22 08:28:49"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "請問把带有时间和姓名的股票交易软件持仓截图和身份证一并扫描发送至公司邮箱，可以获知 非定期报告相关时点的股东人数吗？盼你们具体，明确答复。顺祝健康，快乐 【比如截至到2026年6月20日贵公司的股东人数是多少?",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-21 18:17:01",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-21 18:17:01"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "联特科技自研100G的EML芯片已经批量通过光模块供货北美！100mW及以下的CW光源、200G的EML芯片和200~400mW的CW光源正在北美验证！咱们中际旭创应该努力从联特科技这里解决上游EML芯片和CW光源的货源！国产替代供应链更安全！！！",
+        "answer": "",
+        "answerer": "",
+        "question_time": "2026-06-21 14:18:06",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-21 14:18:06"
+      }
+    ]
+  },
+  "social_discussion_rows": 10,
+  "social_event_rows": 1,
+  "summary": "市场情绪: 中性 (评分: 0.09, 置信度: 低)",
+  "timestamp": "2026-07-13T12:04:50.519485",
+  "as_of_date": "2026-06-26",
+  "data_quality": {
+    "ok": true,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 10,
+    "cutoff_date": "2026-06-26 19:30:00"
+  }
+}

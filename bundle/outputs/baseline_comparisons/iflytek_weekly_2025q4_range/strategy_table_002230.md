@@ -1,0 +1,17 @@
+# 002230 Strategy Table
+
+| Category   | Models         |   CR%↑ |   ARR%↑ |   SR↑ |   WR%↑ |   MDD%↓ |
+|:-----------|:---------------|-------:|--------:|------:|-------:|--------:|
+| Market     | B&H            |  -9.71 |  -34.44 | -0.39 |  56.67 |   18.64 |
+| Rule-based | MACD           | -10.92 |  -37.99 | -0.7  |  53.57 |   19.11 |
+| Rule-based | KDJ&RSI        | -13.37 |  -44.73 | -1.24 |  40    |   17.77 |
+| Rule-based | ZMR            |  -2.26 |   -9.03 | -0.32 |  59.26 |   12.06 |
+| Rule-based | SMA            | -15.94 |  -51.19 | -1.68 |  54.55 |   16.78 |
+| Ours       | TradingAgents  |  -1.32 |   -5.34 |  0.17 |  59.52 |    3.25 |
+|            | Improvement(%) |   0.95 |    3.69 |  0.49 |   0.26 |    8.81 |
+
+- `CR%` = total return
+- `ARR%` = annualized return
+- `SR` = Sharpe ratio
+- `WR%` = daily win rate, excluding flat return days
+- `MDD%` = absolute max drawdown percentage

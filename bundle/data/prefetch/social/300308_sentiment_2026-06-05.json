@@ -1,0 +1,264 @@
+{
+  "ticker": "300308",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0.0,
+    "confidence": 0.375,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0.0,
+    "positive_ratio": 0.0,
+    "negative_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "news_count": 2,
+    "confidence": 0.2,
+    "sample_titles": [
+      "突发跳水！300308，天量成交",
+      "300308，成交额A股第一！"
+    ],
+    "records": [
+      {
+        "title": "突发跳水！300308，天量成交",
+        "content": "值得注意的是，中际旭创（300308）全日成交583.2亿元，成交额创该股历史天量，且位列A股成交额首位。同时，纵观A股历史，这一成交额位列第四，超越了新易盛今年4月创下的纪录，仅次于东方财富、中国石油与中国平安。 港股方面，中芯国际、华虹半导体双双跌超7%。",
+        "source": "证券时报",
+        "publish_time": "2026-06-05T17:04:00",
+        "url": "http://finance.eastmoney.com/a/202606053762026920.html"
+      },
+      {
+        "title": "300308，成交额A股第一！",
+        "content": "沪深北三市半日成交18201亿元，中际旭创（300308）成交额228.36亿元，位居A股第一。",
+        "source": "上海证券报",
+        "publish_time": "2026-06-02T12:36:00",
+        "url": "http://finance.eastmoney.com/a/202606023757371842.html"
+      }
+    ]
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0.0,
+    "event_count": 3,
+    "sample_titles": [
+      "关于公司第四期限制性股票激励计划首次授予部分第一个归属期归属结果暨股份上市公告",
+      "中际旭创关于网络传闻的澄清公告",
+      "关于公司第三期限制性股票激励计划预留部分第一个归属期归属结果暨股份上市公告"
+    ],
+    "confidence": 0.3,
+    "source": "cninfo_announcements",
+    "records": [
+      {
+        "title": "关于公司第四期限制性股票激励计划首次授予部分第一个归属期归属结果暨股份上市公告",
+        "type": "",
+        "date": "2026-05-29 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225336549",
+        "announcement_id": "1225336549",
+        "adjunct_url": "finalpage/2026-05-29/1225336549.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-05-29/1225336549.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "221",
+        "text_excerpt": "证券代码：300308     证券简称：中际旭创        公告编号：2026-059\n\n               中际旭创股份有限公司\n      关于公司第四期限制性股票激励计划首次授予部分\n        第一个归属期归属结果暨股份上市公告\n\n   本公司及董事会全体成员保证信息披露内容的真实、准确和完整，\n没有虚假记载、误导性陈述或重大遗漏。\n\n  特别提示：\n\n  1、本次归属日/上市流通日：2026 年 6 月 1 日\n\n  2、本次归属股票数量：1,309,657 股，占公司目前总股本的 0.12%。\n\n  3、本次归属人数：734 人。\n\n  4、除已披露的情况，本次实施的股权激励计划内容与已披露的激励计划不存在\n差异。\n\n  2026 年 5 月 8 日，公司召开第五届董事会第三十二次会议审议通过了《关于公\n司第四期限制性股票激励计划首次授予部分第一个归属期归属条件成就的议案》，公\n司第四期限制性股票激励计划首次授予部分第一个归属期归属条件已满足，近日公\n司已办理完成本次激励计划首次授予部分第一个归属期限制性股票的归属登记工作。\n具体情况公告如下：\n\n  一、限制性股票股权激励计划基本情况\n\n  （一）股权激励计划简介\n\n  公司《第四期限制性股票激励计划（草案）》已经公司第五届董事会第十九次会\n议及公司 2025 年第二次临时股东会审议通过，其中首次授予部分经公司第五届董事\n会第二十一次会议审议通过并完成授予，预留部分经公司第五届董事会第二十八次\n\f会议审议通过并完成授予，主要内容如下：\n\n    1、激励计划股票种类：第二类限制性股票；\n\n    2、激励计划的股票来源：向激励对象发行公司 A 股普通股股票；\n\n    3、首次授予情况：\n\n    （1）首次授予价格：54.00 元/股；经公司第五届董事会第三十二次会议审议通\n过归属价格调整为 52.10 元/股；\n\n    （2）首次授予日：2025 年 4 月 29 日；\n\n    （3）授予对象\n                           获授的限制性股      获授限制性股票占     获授限制性股票占\n     姓   名         职   位\n                            票数量（股)      授予总量的比例       当前总股本比例\nXIAO YUE EDWARD    核心业务\n                              180,000        1.80%       0.0163%\n     （美国）           人员\n ZHANG JIANYI      核心业务\n                               60,000        0.60%       0.0054%\n   （美国）             人员\n    MOK OSA\n                   核心业务\n  CHOU-SHUNG                   50,000        0.50%       0.0045%\n                    人员\n    （美国）\nFAZLEE BIN ISNIN   核心技术\n                               50,000        0.50%       0.0045%\n  （马来西亚）            人员\n  CHENG NING       中层管理\n                               40,000        0.40%       0.0036%\n   （加拿大）            人员\nSO STANLEY CHEE    核心业务\n                               20,000        0.20%       0.0018%\n   SAN（美国）          人员\n  ZHENG NING       中层管理\n                               20,000        0.20%       0.0018%\n   （新加坡）            人员\n    YE CUI         中层管理\n                               20,000        0.20%       0.0018%\n   （新加坡）            人员\n MOK JOO KHIA      中层管理\n                               20,000        0.20%       0.0018%\n  （新加坡）             人员\n  NG KAY SEAH      核心技术\n                               15,000        0.15%       0.0014%\n  （马来西亚）            人员\n    施柏丞            核心业务\n                               15,000        0.15%       0.0014%\n  （中国台湾）            人员\n GEE CHEIN WOEI    核心技术\n                               14,000        0.14%       0.0013%\n   （马来西亚）           人员\nSOON CHEE YOONG    核心技术\n                               13,000        0.13%       0.0012%\n   （新加坡）            人员\n\f LIANG ZHIMIN    核心技术\n                          12,000      0.12%   0.0011%\n    （美国）          人员\n    张杲铭          中层管理\n                          12,000      0.12%   0.0011%\n  （中国台湾）          人员\n ZHOU ZHI QING   核心业务\n                          10,000      0.10%   0.0009%\n   （加拿大）          人员\nCHEN LONGZAN     核心技术\n                          10,000      0.10%   0.0009%\n   （美国）           人员\nNG KOK CHUANG    核心业务\n                           8,000      0.08%   0.0007%\n  （马来西亚）          人员\n  BOONCHOM\n                 核心业务\n   PAKVARIN                8,000      0.08%   0.0007%\n                  人员\n    （泰国）\nTAN BENG GHEE    核心技术\n                           6,000      0.06%   0.0005%\n  （马来西亚）          人员\n  NG KAH HOE     核心技术\n                           6,000      0.06%   0.0005%\n  （马来西亚）          人员\n    赖䒕芇          中层管理\n                           6,000      0.06%   0.0005%\n  （中国台湾）          人员\n    杨诏钧          核心技术\n                           6,000      0.06%   0.0005%\n  （中国台湾）          人员\n    李暄宇          中层管理\n                           6,000      0.06%   0.0005%\n  （中国台湾）          人员\n    刘志生          核心技术\n                           5,000      0.05%   0.0005%\n  （中国台湾）          人员\n    张杏戎          核心业务\n                           5,000      0.05%   0.0005%\n  （中国台湾）          人员\n    许国峰          核心技术\n                           5,000      0.05%   0.0005%\n  （中国台湾）          人员\n    邱玫珊          中层管理\n                           5,000      0.05%   0.0005%\n  （中国台湾）          人员\n    罗星岛          核心技术\n                   ",
+        "text_status": "ok",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-05-29 00:00:00"
+      },
+      {
+        "title": "中际旭创关于网络传闻的澄清公告",
+        "type": "",
+        "date": "2026-06-01 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225340998",
+        "announcement_id": "1225340998",
+        "adjunct_url": "finalpage/2026-06-01/1225340998.pdf",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-01/1225340998.pdf",
+        "adjunct_type": ".PDF",
+        "adjunct_size_kb": "144",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-06-01 00:00:00"
+      },
+      {
+        "title": "关于公司第三期限制性股票激励计划预留部分第一个归属期归属结果暨股份上市公告",
+        "type": "",
+        "date": "2026-06-05 00:00:00",
+        "url": "https://www.cninfo.com.cn/new/disclosure/detail?annoId=1225351974",
+        "announcement_id": "1225351974",
+        "adjunct_url": "finalpage/2026-06-05/1225351974.PDF",
+        "download_url": "https://static.cninfo.com.cn/finalpage/2026-06-05/1225351974.PDF",
+        "adjunct_type": "PDF",
+        "adjunct_size_kb": "248",
+        "text_excerpt": "",
+        "text_status": "",
+        "content": "",
+        "time": "",
+        "source": "",
+        "_audit_time": "2026-06-05 00:00:00"
+      }
+    ]
+  },
+  "irm_sentiment": {
+    "sentiment_score": 0.0,
+    "irm_count": 12,
+    "sample_topics": [
+      "请问董秘公司管理层按现价1200元，会打算增购吗",
+      "全市场高额融资持仓，是否大股东会大幅减持？",
+      "公司是否有6G",
+      "英伟达CPO已经量产，今后插拔光模块会逐步淘汰，公司今后有什么应对方式吗",
+      "您好，当前股单价过高，请问贵司有考虑拆股吗"
+    ],
+    "confidence": 1.0,
+    "source": "cninfo_irm",
+    "records": [
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "请问董秘公司管理层按现价1200元，会打算增购吗",
+        "answer": "投资者您好，公司管理层目前没有增持计划，如有相关计划会及时履行信息披露义务。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-05 10:47:38",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-05 10:47:38"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "全市场高额融资持仓，是否大股东会大幅减持？",
+        "answer": "投资者您好，公司大股东目前未发布减持公告，如有相关计划会及时履行信息披露义务。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-04 16:15:49",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-04 16:15:49"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "公司是否有6G",
+        "answer": "投资者您好，公司光模块产品可广泛应用于移动通信领域。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-04 16:13:57",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-04 16:13:57"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "英伟达CPO已经量产，今后插拔光模块会逐步淘汰，公司今后有什么应对方式吗",
+        "answer": "投资者您好，公司在多种技术路线均有布局，不同技术路线之间更多是互补而非替代。感谢关注!",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-05 13:49:17",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-05 13:49:17"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "您好，当前股单价过高，请问贵司有考虑拆股吗",
+        "answer": "投资者您好，公司2025年度权益分派于2026年4月30日实施完毕，后续方案会根据《未来三年（2026年-2028年）股东回报规划》以及未来公司经营情况制定。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-05-31 20:15:12",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-05-31 20:15:12"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "建议公司收购一家先进封装公司补齐先进封装的短板，未来cpo先进封装那么重要，公司为何不考虑直接收购晶方科技也没有被控股的公司呢。无实际控制人，随便拿个几十亿收购一下，对两家公司股东都好",
+        "answer": "投资者您好，感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-05-31 21:31:15",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-05-31 21:31:15"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "公司未来先进封装对公司很重要，一万亿市值的公司是不是应该考虑收购先进封装公司，比如收购晶方科技，市值也就260亿，公司拿出50亿就足够收购控股，补齐公司先进封装的短板，晶方科技正好也没有控股股东",
+        "answer": "投资者您好，感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-05-31 21:29:00",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-05-31 21:29:00"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "多家公司打算扩产，中际什么时候扩产？",
+        "answer": "投资者您好，公司产能在持续扩建中，感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-04 14:52:04",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-04 14:52:04"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "硅光与CPO已进入产业化元年，Tower产能已基本锁定至2028年，供给趋紧。国内已具备12英寸SiGe+SOI量产能力的先进产线（如卓胜微芯卓平台），与Tower工艺高度对标。请问贵公司是否会考虑与这类国内厂商开展技术对接与产能合作，共同推动国产硅光制造产能的验证与导入？",
+        "answer": "投资者您好，感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-03 12:03:22",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-03 12:03:22"
+      },
+      {
+        "code": "300308",
+        "company": "中际旭创",
+        "question": "当前市场预测贵公司27年将做到1000亿元净利润，28年贵公司将做到2000亿元净利润，贵公司如何看待？",
+        "answer": "投资者您好，公司未发布业绩指引，具体业绩均以公司披露的定期报告为准。感谢关注！",
+        "answerer": "中际旭创",
+        "question_time": "2026-06-03 16:15:40",
+        "answer_time": "",
+        "source": "CNInfo IRM",
+        "url": "https://irm.cninfo.com.cn/newircs/index/search?keyWord=300308",
+        "_audit_time": "2026-06-03 16:15:40"
+      }
+    ]
+  },
+  "social_discussion_rows": 12,
+  "social_event_rows": 5,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 中)",
+  "timestamp": "2026-07-13T12:04:44.970630",
+  "as_of_date": "2026-06-05",
+  "data_quality": {
+    "ok": true,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion + CNInfo IRM",
+    "rows": 12,
+    "cutoff_date": "2026-06-05 19:30:00"
+  }
+}

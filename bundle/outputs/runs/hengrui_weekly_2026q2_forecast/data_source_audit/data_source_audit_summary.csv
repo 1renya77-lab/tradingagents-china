@@ -1,0 +1,5 @@
+component,structured_records,inferred_records,ok_records,sources,vendors,cutoff_dates,warnings
+fundamentals,0,7,0,BaoStock,BaoStock,,Inferred from natural-language artifact text; not a structured tool log.
+market,0,59,0,AkShare; BaoStock; EastMoney; Sina,AkShare; BaoStock; 东方财富; 新浪|Sina,,Inferred from natural-language artifact text; not a structured tool log.
+news,14,90,0,BaoStock; CNInfo; EastMoney,BaoStock; 东方财富; 巨潮资讯|CNInfo,2026-04-03; 2026-04-10; 2026-04-17; 2026-04-24; 2026-05-01; 2026-05-08; 2026-05-15; 2026-05-22; 2026-05-29; 2026-06-05; 2026-06-12; 2026-06-19; 2026-06-26; 2026-06-30,Inferred from natural-language artifact text; not a structured tool log.
+social,0,42,0,EastMoney,东方财富,,Inferred from natural-language artifact text; not a structured tool log.

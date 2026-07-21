@@ -1,0 +1,20 @@
+[
+  {
+    "source_file": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/outputs/runs/300308_weekly_2026q2/audit_reports/audit_300308_2026-06-05.json",
+    "signal_date": "2026-06-05",
+    "field_path": "investment_debate.bear_history",
+    "component": "unknown",
+    "status": "inferred",
+    "evidence_level": "artifact_text_mention",
+    "ok": "",
+    "source": "EastMoney",
+    "vendor": "东方财富",
+    "rows": "",
+    "cutoff_date": "",
+    "retrieved_at": "",
+    "temporal_rule": "",
+    "warning": "Source inferred from final artifact text; not a tool-call log.",
+    "time_evidence": [],
+    "evidence": "下降是预警信号 看涨同事将\"社交媒体讨论冷清\"解读为\"不代表真实情绪\"，但我认为这恰恰是需要警惕的信号： **1. 东方财富股吧、雪球讨论量均为0** 这意味着： - 散户投资者关注度在下降 - 市场缺乏跟风盘 - 一旦下跌，没有承接力量"
+  }
+]

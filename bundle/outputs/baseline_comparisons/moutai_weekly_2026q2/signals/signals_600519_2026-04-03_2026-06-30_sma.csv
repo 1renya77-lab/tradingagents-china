@@ -1,0 +1,15 @@
+date,ticker,status,error_message,action,target_position,score,action_score,reasoning
+2026-04-03,600519,baseline,,买入,1.0,1.0,1.0,"sma: SMA bullish: close>10716.72, MA20>10697.76"
+2026-04-10,600519,baseline,,持有,1.0,1.0,1.0,"sma: SMA bullish: close>10802.36, MA20>10718.36"
+2026-04-17,600519,baseline,,持有,1.0,1.0,1.0,sma: SMA neutral: keep previous position
+2026-04-24,600519,baseline,,持有,1.0,1.0,1.0,"sma: SMA bullish: close>10796.87, MA20>10768.62"
+2026-05-01,600519,baseline,,卖出,0.0,0.0,0.0,"sma: SMA bearish: close<10740.19, MA20<10797.60"
+2026-05-08,600519,baseline,,持有,0.0,0.0,0.0,"sma: SMA bearish: close<10649.96, MA20<10792.19"
+2026-05-15,600519,baseline,,持有,0.0,0.0,0.0,"sma: SMA bearish: close<10449.71, MA20<10697.06"
+2026-05-22,600519,baseline,,持有,0.0,0.0,0.0,"sma: SMA bearish: close<10226.08, MA20<10579.37"
+2026-05-29,600519,baseline,,持有,0.0,0.0,0.0,"sma: SMA bearish: close<9989.73, MA20<10472.54"
+2026-06-05,600519,baseline,,持有,0.0,0.0,0.0,"sma: SMA bearish: close<9815.38, MA20<10399.39"
+2026-06-12,600519,baseline,,持有,0.0,0.0,0.0,sma: SMA neutral: keep previous position
+2026-06-19,600519,baseline,,持有,0.0,0.0,0.0,"sma: SMA bearish: close<9567.83, MA20<10203.13"
+2026-06-26,600519,baseline,,持有,0.0,0.0,0.0,"sma: SMA bearish: close<9437.28, MA20<10082.89"
+2026-06-30,600519,baseline,,持有,0.0,0.0,0.0,"sma: SMA bearish: close<9362.80, MA20<10028.79"

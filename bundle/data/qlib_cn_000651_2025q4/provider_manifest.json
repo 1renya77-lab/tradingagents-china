@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-07-12 09:09:21",
+  "source": "baostock",
+  "adjust": "qfq",
+  "provider_uri": "/Users/bakii/tradingagents 汇报/tradingagents_bundle/data/qlib_cn_000651_2025q4",
+  "start": "2025-10-01",
+  "end": "2025-12-31",
+  "fetch_end": "2026-01-10",
+  "calendar_start": "2025-10-09",
+  "calendar_end": "2026-01-09",
+  "stocks": [
+    {
+      "ticker": "000651",
+      "instrument": "SZ000651",
+      "rows": 65
+    }
+  ],
+  "benchmarks": [
+    {
+      "benchmark": "SH000300",
+      "instrument": "SH000300",
+      "rows": 65
+    }
+  ]
+}

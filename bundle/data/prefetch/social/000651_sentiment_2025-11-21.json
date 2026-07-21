@@ -1,0 +1,50 @@
+{
+  "ticker": "000651",
+  "analysis_period": "7 days",
+  "overall_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "level": "neutral"
+  },
+  "news_sentiment": {
+    "sentiment_score": 0,
+    "confidence": 0,
+    "news_count": 0
+  },
+  "forum_sentiment": {
+    "sentiment_score": 0,
+    "discussion_count": 0,
+    "hot_topics": [],
+    "note": "当前未抓取到股吧公开讨论数据",
+    "confidence": 0,
+    "records": []
+  },
+  "xueqiu_sentiment": {
+    "sentiment_score": 0,
+    "post_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "雪球公开接口受 WAF 限制，当前未稳定获取到讨论数据",
+    "records": []
+  },
+  "cninfo_sentiment": {
+    "sentiment_score": 0,
+    "event_count": 0,
+    "sample_titles": [],
+    "confidence": 0,
+    "note": "当前窗口内无 CNInfo 公告事件",
+    "records": []
+  },
+  "social_discussion_rows": 0,
+  "social_event_rows": 0,
+  "summary": "市场情绪: 中性 (评分: 0.00, 置信度: 低)",
+  "timestamp": "2026-07-12T00:59:54.714302",
+  "as_of_date": "2025-11-21",
+  "data_quality": {
+    "ok": false,
+    "source": "chinese-social-public",
+    "vendor": "EastMoney Guba + Xueqiu public discussion",
+    "rows": 0,
+    "cutoff_date": "2025-11-21 19:30:00"
+  }
+}

@@ -1,0 +1,15 @@
+date,ticker,status,error_message,action,target_position,score,action_score,reasoning
+2025-10-03,002230,baseline,,买入,1.0,1.0,1.0,"kdj_rsi: KDJ&RSI bullish: K=72.95>D=69.06, RSI6=67.02, RSI12=63.69"
+2025-10-10,002230,baseline,,持有,1.0,1.0,1.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2025-10-17,002230,baseline,,卖出,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=20.71<D=37.48, RSI6=35.05, RSI12=43.40"
+2025-10-24,002230,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2025-10-31,002230,baseline,,买入,1.0,1.0,1.0,"kdj_rsi: KDJ&RSI bullish: K=75.32>D=57.97, RSI6=73.04, RSI12=60.01"
+2025-11-07,002230,baseline,,卖出,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=35.01<D=50.18, RSI6=38.81, RSI12=45.62"
+2025-11-14,002230,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=9.76<D=19.64, RSI6=26.19, RSI12=36.94"
+2025-11-21,002230,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=16.27<D=18.25, RSI6=28.23, RSI12=36.31"
+2025-11-28,002230,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=31.08<D=31.83, RSI6=36.89, RSI12=39.95"
+2025-12-05,002230,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=20.86<D=24.95, RSI6=36.33, RSI12=38.83"
+2025-12-12,002230,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2025-12-19,002230,baseline,,持有,0.0,0.0,0.0,"kdj_rsi: KDJ&RSI bearish: K=38.05<D=42.81, RSI6=43.66, RSI12=43.36"
+2025-12-26,002230,baseline,,持有,0.0,0.0,0.0,kdj_rsi: KDJ&RSI neutral: keep previous position
+2025-12-31,002230,baseline,,买入,1.0,1.0,1.0,"kdj_rsi: KDJ&RSI bullish: K=56.24>D=42.46, RSI6=76.26, RSI12=59.07"
